@@ -1,1181 +1,1181 @@
-EntityFramework.SQLite -> 7.0.0-rc1-final
-Русские ресурсы Microsoft Owin Security Windows Azure -> 2.0.0-rc1
-Русские ресурсы Microsoft Owin Static Files -> 3.0.1
-Русские ресурсы библиотеки Microsoft WebPages OAuth -> 3.2.3
-Русские ресурсы базовых библиотек Microsoft ASP.NET Universal Providers -> 2.0.0
-Русские ресурсы по Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
-适用于 OWIN Web 应用程序的 Microsoft ASP.NET 主机的简体中文资源 -> 3.0.1
-Русскоязычные ресурсы по Entity Framework -> 6.1.3
-实体框架简体中文资源 -> 6.1.3
-Microsoft.Framework.ApplicationHost -> 1.0.0-beta6
-Microsoft ASP.NET Web API 2.2 -> 5.2.3
-Microsoft ASP.NET Web Optimization Framework -> 1.1.3
-Microsoft jQuery Unobtrusive Validation -> 3.2.3
-ODataLib for OData V1-3 -> 5.7.0
-Microsoft Owin Security Windows Azure - Risorse per l'italiano -> 2.0.0-rc1
-System.Spatial for OData V1-3 -> 5.7.0
-Microsoft BCL Portability Pack -> 1.1.10
-Microsoft BCL Build Components -> 1.0.21
-Microsoft jQuery Unobtrusive Ajax -> 3.2.3
-Microsoft.Owin -> 3.0.1
-Windows Azure Storage -> 6.2.0
-Microsoft Azure Configuration Manager -> 3.1.0
-Microsoft.Owin.Host.SystemWeb -> 3.0.1
-Microsoft.Owin.Security -> 3.0.1
-NuGet.CommandLine -> 3.3.0
-Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-Microsoft ASP.NET Web API 2.2 for OData v1-3 -> 5.7.0
-Microsoft ASP.NET Web Pages Data -> 3.2.3
-NuGet.Build -> 2.8.6
-Microsoft ASP.NET WebHooks Receiver for Bitbucket -> 1.2.0-beta4
-Microsoft.Owin.Security.OAuth -> 3.0.1
-Microsoft.Owin.Security.Cookies -> 3.0.1
-Recursos pt-br do Microsoft Owin Security Windows Azure -> 2.0.0-rc1
-WCF Data Services Client for OData V1-3 -> 5.7.0
-Microsoft Owin Security Windows Azure — zasoby dla języka polskiego -> 2.0.0-rc1
-Microsoft Owin Security Windows Azure 日本語リソース -> 2.0.0-rc1
-Microsoft Owin Security Windows Azure Türkçe Kaynaklar -> 2.0.0-rc1
-Microsoft Azure Service Bus -> 3.0.9
-Microsoft WebPages OAuth library -> 3.2.3
-Microsoft Async -> 1.0.168
-Microsoft ASP.NET Web API 2.2 Help Page -> 5.2.3
-Microsoft.Owin.Security.Google -> 3.0.1
-NuGet.Core -> 2.10.1
-Microsoft.Owin.Security.Facebook -> 3.0.1
-Microsoft Owin Security Windows Azure 简体中文资源 -> 2.0.0-rc1
-Microsoft.Owin.Security.MicrosoftAccount -> 3.0.1
-Microsoft.Owin.Security.Twitter -> 3.0.1
-Microsoft Owin Security Windows Azure 한국어 리소스 -> 2.0.0-rc1
-Ressources en français pour Microsoft Owin Security Windows Azure -> 2.0.0-rc1
-Microsoft ASP.NET Web API 2.2 OWIN -> 5.2.3
-System.Runtime -> 4.0.20
-System.Reflection -> 4.0.10
-Recursos de español de Microsoft Owin Security Windows Azure -> 2.0.0-rc1
-Microsoft Owin Security Windows Azure 繁體中文 資源 -> 2.0.0-rc1
-System.IO -> 4.0.10
-System.Threading.Tasks -> 4.0.10
-Microsoft Owin Security Windows Azure – české prostředky -> 2.0.0-rc1
-System.Globalization -> 4.0.10
-System.Text.Encoding -> 4.0.10
-System.Runtime.Extensions -> 4.0.10
-System.Collections -> 4.0.10
-System.Threading -> 4.0.10
-System.Diagnostics.Debug -> 4.0.10
-Microsoft ASP.NET WebHooks Receiver for Azure WebHooks including Kudu (Azure Web App Deployment) and Azure Alerts. -> 1.2.0-beta4
-System.Runtime.InteropServices -> 4.0.20
-Microsoft ASP.NET WebHooks Receiver for Pusher -> 1.2.0-beta4
-Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Microsoft ASP.NET WebHooks Receiver for Trello -> 1.2.0-beta4
-Microsoft.Owin.Hosting -> 3.0.1
-Microsoft ASP.NET WebHooks Receiver for WordPress -> 1.2.0-beta4
-System.Collections.Concurrent -> 4.0.10
-Microsoft Ajax Minifier -> 5.14.5506.26202
-System.Text.Encoding.Extensions -> 4.0.10
-Microsoft.Owin.Host.HttpListener -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-System.Linq.Expressions -> 4.0.10
-Reactive Extensions - Interfaces Library -> 2.2.5
-Reactive Extensions - Core Library -> 2.2.5
-Reactive Extensions - Query Library -> 2.2.5
-Reactive Extensions - Main Library -> 2.2.5
-System.ObjectModel -> 4.0.10
-System.Text.RegularExpressions -> 4.0.10
-System.Diagnostics.Tracing -> 4.0.20
-Reactive Extensions - Platform Services Library -> 2.2.5
-System.Resources.ResourceManager -> 4.0.0
-Microsoft ASP.NET WebHooks Receiver for Paypal -> 1.2.0-beta4
-System.Collections.Immutable -> 1.1.37
-System.Net.Primitives -> 4.0.10
-System.Reflection.Primitives -> 4.0.0
-System.Linq -> 4.0.0
-System.Runtime.Handles -> 4.0.0
-System.IO.FileSystem -> 4.0.0
-System.IO.FileSystem.Primitives -> 4.0.0
-System.Reflection.TypeExtensions -> 4.0.0
-System.Reflection.Extensions -> 4.0.0
-System.Xml.ReaderWriter -> 4.0.10
-System.Reflection.Metadata -> 1.1.0
-Microsoft.Owin.Cors -> 3.0.1
-Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Microsoft ASP.NET WebHooks Receiver for MailChimp -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Dropbox -> 1.2.0-beta4
-System.Diagnostics.Tools -> 4.0.0
-Windows Azure Cache -> 2.8.0
-System.Net.Http -> 4.0.0
-System.Security.Principal -> 4.0.0
-System.Dynamic.Runtime -> 4.0.10
-Microsoft.AspNet.Http -> 1.0.0-rc1-final
-Microsoft.Framework.DependencyInjection -> 1.0.0-beta8
-System.ComponentModel -> 4.0.0
-Microsoft.AspNet.WebUtilities -> 1.0.0-rc1-final
-Microsoft.Framework.Logging -> 1.0.0-beta8
-Microsoft.AspNet.Hosting -> 1.0.0-rc1-final
-Microsoft.AspNet.Http.Extensions -> 1.0.0-rc1-final
-System.Security.Claims -> 4.0.0
-Microsoft.Framework.OptionsModel -> 1.0.0-beta8
-Microsoft ASP.NET WebHooks Receiver for Instagram -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Stripe -> 1.2.0-beta4
-Microsoft.Net.Http.Headers -> 1.0.0-rc1-final
-Microsoft ASP.NET Web API SignalR — zasoby dla języka polskiego -> 5.0.0-rc1
-Microsoft SQL Server Compact Edition -> 4.0.8876.1
-Microsoft Xml Document Transformation -> 2.1.1
-jQuery Templates (Beta 1) -> 0.1.0
-Microsoft ASP.NET Web API SignalR Türkçe Kaynaklar -> 5.0.0-rc1
-Microsoft.CodeAnalysis.CSharp -> 1.1.1
-System.Threading.Overlapped -> 4.0.0
-Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-Microsoft.Win32.Primitives -> 4.0.0
-Microsoft.CodeAnalysis.Common -> 1.1.1
-Microsoft.AspNet.StaticFiles -> 1.0.0-rc1-final
-Microsoft ASP.NET Web API SignalR 한국어 리소스 -> 5.0.0-rc1
-Microsoft.AspNet.Server.Kestrel -> 1.0.0-rc1-final
-System.Diagnostics.Contracts -> 4.0.0
-System.Threading.ThreadPool -> 4.0.10-beta-23516
-Windows Identity Foundation -> 6.1.7600.16394
-System.Globalization.Extensions -> 4.0.0
-System.Reflection.Emit -> 4.0.0
-Microsoft.Owin.Diagnostics -> 3.0.1
-System.Threading.Timer -> 4.0.0
-Microsoft ASP.NET Web API SignalR の日本語リソース -> 5.0.0-rc1
-System.Console -> 4.0.0-beta-23516
-System.Reflection.Emit.ILGeneration -> 4.0.0
-Transient Fault Handling Core -> 5.1.1209.1
-System.Collections.NonGeneric -> 4.0.0
-System.Globalization.Calendars -> 4.0.0
-Microsoft.CSharp -> 4.0.0
-System.Runtime.Numerics -> 4.0.0
-Microsoft.Owin.Security.Jwt -> 3.0.1
-System.Xml.XDocument -> 4.0.10
-Microsoft ASP.NET Web API 2.2 OWIN Self Host -> 5.2.3
-System.Threading.Thread -> 4.0.0-beta-23516
-jQuery Unobtrusive Validation -> 2.0.20710
-Microsoft Token Validation Extension for Microsoft .Net Framework 4.5 -> 4.5.1
-Microsoft.AspNet.Web.Optimization.WebForms -> 1.1.3
-Microsoft.Owin.SelfHost -> 3.0.1
-Microsoft ASP.NET Web API SignalR – české prostředky -> 5.0.0-rc1
-Microsoft.Spatial -> 6.13.0
-Microsoft.AspNet.FeatureModel -> 1.0.0-beta6
-System.IO.Compression -> 4.0.0
-Microsoft.AspNet.FriendlyUrls.Core -> 1.0.2
-System.Security.Cryptography.Encoding -> 4.0.0-beta-23516
-System.Security.Cryptography.X509Certificates -> 4.0.0-beta-23516
-Recursos de Português do Brasil do Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Microsoft.AspNet.Mvc.Core -> 6.0.0-rc1-final
-Microsoft.AspNet.Mvc.Razor -> 6.0.0-rc1-final
-System.ComponentModel.Annotations -> 4.0.10
-System.ComponentModel.EventBasedAsync -> 4.0.10
-System.Reflection.Emit.Lightweight -> 4.0.0
-Microsoft.AspNet.Routing -> 1.0.0-rc1-final
-Microsoft.AspNet.Razor.Runtime -> 4.0.0-rc1-final
-Microsoft.AspNet.Mvc.Razor.Host -> 6.0.0-rc1-final
-Microsoft ASP.NET Web API SignalR - Risorse per l'italiano -> 5.0.0-rc1
-jQuery Unobtrusive Ajax -> 2.0.20710
-ODataLib -> 6.13.0
-System.ComponentModel.Primitives -> 4.0.0
-Recursos en español para Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Microsoft SQL Server Compact Edition -> 4.0.8854.1
-System.Data.Common -> 4.0.0
-System.IO.FileSystem.Watcher -> 4.0.0-beta-23516
-Microsoft ASP.NET Web API SignalR 繁體中文資源 -> 5.0.0-rc1
-NuGet.Bootstrapper -> 2.6.0
-Mvc4Futures -> 4.0.20710
-Microsoft ASP.NET Web API SignalR 简体中文资源 -> 5.0.0-rc1
-System.Diagnostics.TraceSource -> 4.0.0-beta-23516
-System.Net.NetworkInformation -> 4.0.0
-System.ComponentModel.TypeConverter -> 4.0.0
-System.Threading.Tasks.Parallel -> 4.0.0
-System.Runtime.Serialization.Primitives -> 4.0.10
-Microsoft.AspNet.FriendlyUrls -> 1.0.2
-Microsoft.AspNet.ScriptManager.WebForms -> 5.0.0
-Microsoft.AspNet.ScriptManager.MSAjax -> 5.0.0
-Microsoft.Win32.Registry -> 4.0.0-beta-23516
-WCF Data Services Server for OData V1-3 -> 5.7.0
-System.Net.Sockets -> 4.0.0
-System.Linq.Queryable -> 4.0.0
-Microsoft.Framework.Runtime.Interfaces -> 1.0.0-beta4
-Microsoft DotNetOpenAuth helpers for ASP.NET Membership -> 2.0.1
-System.AppContext -> 4.0.0
-Mvc2Futures -> 2.0.50217
-Ressources en français pour Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Русские ресурсы Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Reactive Extensions for JavaScript - Bridges to WinJS -> 1.0.1
-Microsoft.Owin.FileSystems -> 3.0.1
-Microsoft.AspNet.Server.IIS -> 1.0.0-beta7
-Microsoft.Owin.StaticFiles -> 3.0.1
-Microsoft TPL Dataflow -> 4.5.24
-Microsoft.AspNet.Loader.IIS -> 1.0.0-beta7
-Microsoft.Framework.ConfigurationModel -> 1.0.0-beta4
-Mvc3Futures -> 3.0.20105
-Microsoft.AspNet.Server.WebListener -> 1.0.0-rc1-final
-Microsoft.AspNet.Loader.IIS.Interop -> 1.0.0-beta7
-Microsoft.Owin.Security.OpenIdConnect -> 3.0.1
-Microsoft.AspNet.Diagnostics -> 1.0.0-rc1-final
-System.Security.Cryptography.Hashing.Algorithms -> 4.0.0-beta-23225
-Microsoft.Framework.Logging.Interfaces -> 1.0.0-beta4
-kre-coreclr-win-x64 -> 1.0.0-beta3
-MicrosoftWebMvc -> 2.0.0
-System.Xml.XmlSerializer -> 4.0.10
-Microsoft.Net.Http.Server -> 1.0.0-rc1-final
-System.Security.Cryptography.Encryption -> 4.0.0-beta-23225
-System.Security.Cryptography.Hashing -> 4.0.0-beta-23225
-System.Net.WebSockets -> 4.0.0-beta-23516
-Windows Azure Mobile Services -> 1.3.2
-Microsoft ASP.NET WebHooks Receiver for Slack -> 1.2.0-beta4
-Microsoft.Owin.Security.ActiveDirectory -> 3.0.1
-System.Text.Encoding.CodePages -> 4.0.0
-Microsoft.Net.WebSockets -> 1.0.0-rc1-final
-System.Diagnostics.Process -> 4.1.0-beta-23516
-Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 5.7.0
-Sample DryadLINQ Programs -> 0.2.1-beta
-Microsoft.Framework.Runtime.Roslyn.Common -> 1.0.0-beta6
-System.Security.Cryptography.Encryption.RSA -> 4.0.0-beta-22231
-Microsoft ASP.NET WebHooks Receiver for GitHub -> 1.2.0-beta4
-kre-coreclr-win-x86 -> 1.0.0-beta3
-Microsoft.AspNet.Security.DataProtection.Compatibility -> 1.0.0-beta3
-System.Security.Cryptography.RandomNumberGenerator -> 4.0.0-beta-23225
-Microsoft HTTP Client Libraries -> 2.2.29
-System.Xml.XmlDocument -> 4.0.0
-System.Runtime.Serialization.Xml -> 4.0.10
-Microsoft ASP.NET Web Pages 简体中文资源 -> 3.2.3
-System.Security.SecureString -> 4.0.0-beta-23409
-System.Web.Http.Common (Beta) -> 4.0.20126.16343
-Microsoft.AspNet.Mvc.ModelBinding -> 6.0.0-beta4
-Microsoft Azure Active Directory Graph Client Library -> 2.1.0
-Semantic Logging Application Block -> 2.0.1406.1
-Reactive Extensions - XAML Support Library -> 2.2.5
-Microsoft.AspNet.Security.DataProtection.Azure -> 1.0.0-beta3
-Microsoft Composition (MEF 2) -> 1.0.30
-Microsoft.AspNet.FriendlyUrls.ViewSwitcher -> 1.0.0-rc1
-Microsoft.AspNet.Http.Core -> 1.0.0-beta4
-Microsoft.AspNet.Http.Interfaces -> 1.0.0-beta4
-Microsoft.Owin.Testing -> 3.0.1
-Microsoft ASP.NET WebHooks Receiver for your custom WebHooks implementation. -> 1.2.0-beta4
-Microsoft.AspNet.FileProviders -> 1.0.0-beta4
-Microsoft.Framework.Logging.Console -> 1.0.0-beta8
-Microsoft.AspNet.FileProviders.Interfaces -> 1.0.0-beta4
-Microsoft Compression -> 3.9.85
-System.Collections.Specialized -> 4.0.0
-Microsoft.AspNet.Owin -> 1.0.0-rc1-final
-Microsoft.AspNet.RequestContainer -> 1.0.0-beta3
-Recursos en español de Microsoft Owin Static Files -> 3.0.1
-Microsoft.AspNet.Security.DataProtection -> 1.0.0-beta3
-System.Security.Cryptography.Encryption.Aes -> 4.0.0-beta-23225
-Microsoft.AspNet.Security -> 1.0.0-beta3
-Microsoft ASP.NET Web API 2.2 Client Libraries 简体中文资源 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Core Libraries 简体中文资源 -> 5.2.3
-NuGet.Server -> 2.8.6
-Microsoft.Net.WebSocketAbstractions -> 1.0.0-beta4
-Microsoft Owin Static Files - Risorse per l'italiano -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Web Host 简体中文资源 -> 5.2.3
-Microsoft Owin Static Files Türkçe Kaynaklar -> 3.0.1
-Microsoft Owin Static Files – české prostředky -> 3.0.1
-Microsoft Owin Static Files 한국어 리소스 -> 3.0.1
-System.Linq.Parallel -> 4.0.0
-System.IO.Compression.ZipFile -> 4.0.0
-Microsoft Owin Static Files — zasoby dla języka polskiego -> 3.0.1
-Microsoft.AspNet.Mvc.TagHelpers -> 6.0.0-rc1-final
-System.IO.UnmanagedMemoryStream -> 4.0.0
-System.Data.SqlClient -> 4.0.0-beta-23516
-System.ServiceModel.Primitives -> 4.0.0
-Recursos pt-br do Microsoft Owin Static Files -> 3.0.1
-OData Client for .NET -> 6.13.0
-Windows Azure Media Services .NET SDK -> 3.5.2
-Microsoft Owin Static Files 繁體中文資源 -> 3.0.1
-System.Runtime.Serialization.Json -> 4.0.0
-Microsoft.AspNet.Identity -> 3.0.0-rc1-final
-System.ServiceModel.Http -> 4.0.10
-Ressources en français pour Microsoft Owin Static Files -> 3.0.1
-Microsoft.CodeAnalysis.Workspaces.Common -> 1.1.1
-Microsoft.AspNet.Diagnostics.Entity -> 7.0.0-rc1-final
-System.Runtime.Loader -> 4.0.0-beta-23516
-Microsoft.CodeAnalysis.CSharp.Workspaces -> 1.1.1
-Recursos do Português Brasileiro do Microsoft ASP.NET Friendly URLs -> 1.0.2
-Microsoft.Owin.Security.WsFederation -> 3.0.1
-Microsoft Owin Static Files 日本語リソース -> 3.0.1
-Reactive Extensions - Testing Library -> 2.2.5
-Microsoft.CodeAnalysis.VisualBasic -> 1.1.1
-Microsoft ASP.NET Web Pages -> 3.2.3
-Microsoft.Framework.Cache.Memory -> 1.0.0-beta3
-Semantic Logging Application Block - Azure Sink -> 2.0.1406.1
-Microsoft ASP.NET Web Optimization 简体中文资源 -> 1.1.3
-Microsoft.AspNet.FileSystems -> 1.0.0-beta2
-Microsoft.VisualStudio.Web.BrowserLink.Loader -> 14.0.0-rc1-final
-Microsoft.AspNet.SignalR.Sample -> 2.2.0
-Microsoft.AspNet.Web.Helpers.Mvc -> 2.0.20710
-Reactive Extensions - WPF Helpers -> 2.2.5
-Microsoft.CodeAnalysis.VisualBasic.Workspaces -> 1.1.1
-Semantic Logging Application Block - SQL Server Sink -> 2.0.1406.1
-Microsoft.Framework.Runtime -> 1.0.0-beta6
-Microsoft Dynamics CRM 2016 SDK core assemblies -> 8.0.0
-Recursos en español para Microsoft ASP.NET MVC -> 5.2.3
-Microsoft.Framework.Runtime.Loader -> 1.0.0-beta6
-Recursos en español para Microsoft ASP.NET Razor -> 3.2.3
-Microsoft.CodeAnalysis -> 1.1.1
-Microsoft.Framework.ConfigurationModel.Json -> 1.0.0-beta4
-jQuery.Mobile.MVC -> 1.0.0
-Microsoft.Framework.Runtime.Roslyn -> 1.0.0-beta6
-RIA Services Silverlight DomainDataSource -> 4.2.0
-Microsoft Owin Static Files 简体中文资源 -> 3.0.1
-Recursos en español para Microsoft ASP.NET Web Pages -> 3.2.3
-ODataLib Contrib -> 5.1.0.51119
-Microsoft.CodeAnalysis.Test.Resources.Proprietary -> 1.1.0-beta1-20150824-02
-Microsoft.AspNet.Security.OAuthBearer -> 1.0.0-beta3
-Microsoft.Framework.Cache.Redis -> 1.0.0-beta3
-Microsoft.AspNet.PipelineCore -> 1.0.0-beta2
-Microsoft.AspNet.HttpFeature -> 1.0.0-beta2
-Microsoft.Framework.CodeGenerators.Mvc -> 1.0.0-beta5
-Recursos em Português do Brasil Microsoft Owin Security Jwt -> 3.0.1
-Microsoft Owin Security Active Directory 한국어 리소스 -> 3.0.1
-Ressources du français pour Entity Framework -> 6.1.3
-Microsoft Owin Security Active Directory — zasoby dla języka polskiego -> 3.0.1
-Microsoft Owin Security Active Directory Türkçe Kaynaklar -> 3.0.1
-Microsoft Owin Security Jwt - Risorse per l'italiano -> 3.0.1
-Microsoft Owin Security Jwt 한국어 리소스 -> 3.0.1
-Recursos de español de Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-Recursos de español para Entity Framework -> 6.1.3
-Ressources en français pour Microsoft ASP.NET MVC -> 5.2.3
-Twitter.Helper -> 1.0.0
-System.Net.Http.WinHttpHandler -> 4.0.0-beta-23516
-Recursos de español de Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Microsoft.Framework.CommandLineUtils -> 1.0.0-beta4
-Recursos de español de host web de Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-Ressources en français pour Microsoft ASP.NET Razor -> 3.2.3
-Microsoft.AspNet.Mvc.HeaderValueAbstractions -> 1.0.0-beta2
-Recursos pt-br do Microsoft Owin Security Active Directory -> 3.0.1
-Ressources en français pour Microsoft ASP.NET Web Pages -> 3.2.3
-Microsoft Owin Security Jwt — zasoby dla języka polskiego -> 3.0.1
-Microsoft Owin Security Active Directory Risorse per l'italiano -> 3.0.1
-Microsoft.Framework.CodeGeneration.EntityFramework -> 1.0.0-beta5
-Microsoft.Framework.CodeGeneration.Templating -> 1.0.0-beta5
-Microsoft.Framework.CodeGeneration -> 1.0.0-beta5
-MicrosoftAjax -> 4.0.20526
-Microsoft.Framework.CodeGeneration.Core -> 1.0.0-beta5
-Microsoft Owin Security Jwt – české prostředky -> 3.0.1
-Русские ресурсы Microsoft Owin Security Active Directory -> 3.0.1
-Recursos en español para Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR Redis -> 2.2.0
-Microsoft Owin Security Jwt Türkçe Kaynaklar -> 3.0.1
-Microsoft ASP.NET Web Pages 日本語リソース -> 3.2.3
-Recursos en español para Microsoft Owin Security Jwt -> 3.0.1
-Microsoft Owin Security Active Directory – české prostředky -> 3.0.1
-Microsoft Dynamics CRM 2016 SDK deployment assembly -> 8.0.0
-OwinHost -> 3.0.1
-Ressources en français pour Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Recursos en español para Microsoft ASP.NET Web Optimization -> 1.1.3
-Recursos em Português-BR do Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Windows Azure Shared Caching -> 1.7.0
-Microsoft Owin Security Jwt {繁體中文} 資源 -> 3.0.1
-Microsoft.Web.Infrastructure -> 1.0.0
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-Microsoft.Framework.TestHost -> 1.0.0-beta6
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Microsoft.Framework.TestAdapter -> 1.0.0-beta6
-Upshot -> 1.0.0.2
-Recursos en español para Microsoft ASP.NET SignalR Redis -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR Redis -> 2.2.0
-WCF Data Services EntityFramework Provider -> 1.0.0-beta2
-Microsoft.DataAnnotations -> 1.0.0-beta1
-Microsoft ASP.NET Web API 2.2 Core Libraries 日本語リソース -> 5.2.3
-Microsoft ASP.NET Web Pages 繁體中文資源 -> 3.2.3
-Microsoft ASP.NET Web API 2.2 Client Libraries 日本語リソース -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Web Host 日本語リソース -> 5.2.3
-System.Resources.ResourceWriter -> 4.0.0-beta-22816
-Recursos en español para Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-MicrosoftMvcAjax.Mvc5 -> 5.0.0
-Zasoby dla języka polskiego dotyczące produktu Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Microsoft OCR Library for Windows Runtime -> 1.0.0
-Русские ресурсы Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Microsoft.AspNet.Security.Cookies -> 1.0.0-beta3
-Русские ресурсы Microsoft ASP.NET MVC -> 5.2.3
-Русские ресурсы Microsoft ASP.NET SignalR Redis -> 2.2.0
-Microsoft Owin 简体中文资源 -> 3.0.1
-Recursos em Português do Brasil Microsoft Owin Security Jwt -> 3.0.1
-Русские ресурсы Microsoft ASP.NET Razor -> 3.2.3
-Recursos en español de Microsoft Owin Security Active Directory -> 3.0.1
-Microsoft Owin Hosting Türkçe Kaynaklar -> 3.0.1
-Русские ресурсы Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Microsoft ASP.NET Web Optimization 日本語 リソース -> 1.1.3
-Microsoft Owin Security 简体中文资源 -> 3.0.1
-Microsoft Dynamics CRM 2015 SDK client and portal assemblies -> 7.1.0.1
-Русские ресурсы Microsoft ASP.NET Web Pages -> 3.2.3
-Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-Microsoft Owin Hosting — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web Pages Web Data 简体中文资源 -> 3.2.3
-Recursos em Português-BR do Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Ressources en français pour Microsoft ASP.NET Web Optimization -> 1.1.3
-Microsoft Owin Security Jwt 日本語リソース -> 3.0.1
-Microsoft.AspNet.WebSockets.Client -> 1.0.0-rc1-final
-Recursos pt-br do Microsoft Owin Hosting -> 3.0.1
-Microsoft WebPages OAuth 库简体中文资源 -> 3.2.3
-Microsoft.AspNet.Session -> 1.0.0-rc1-final
-Microsoft ASP.NET Web Pages Data 简体中文资源 -> 3.2.3
-Recursos en español para las Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
-Microsoft ASP.NET Web API 2.2 Core Libraries 繁體中文 資源 -> 5.2.3
-Reactive Extensions for JavaScript - Main Library -> 4.0.7
-Microsoft ASP.NET Web API 2.2 Client Libraries 繁體中文 資源 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Web Host 繁體中文 資源 -> 5.2.3
-System.Threading.ExecutionContext -> 4.0.0-beta-22416
-WebGrease -> 1.6.0
-Microsoft.Data.SQLite -> 1.0.0-rc1-final
-Recursos en español de Microsoft Owin Hosting -> 3.0.1
-Microsoft Owin Security Active Directory {繁體中文} 資源 -> 3.0.1
-RIA Services for EntityFramework Code-First (DbContext) -> 4.2.0
-Microsoft Owin Security Microsoft Account 简体中文资源 -> 3.0.1
-Microsoft Owin Security Google 简体中文资源 -> 3.0.1
-Microsoft Owin Security Facebook 简体中文资源 -> 3.0.1
-Microsoft Owin Security Twitter 简体中文资源 -> 3.0.1
-Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
-Ресурсы Microsoft Owin Security Jwt — {Language} -> 3.0.1
-System.Diagnostics.TextWriterTraceListener -> 4.0.0-beta-23516
-Ressources en français pour Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Microsoft Owin HttpListener - Risorse per l'italiano -> 3.0.1
-Microsoft Visual Studio Services Client -> 14.89.0
-Microsoft ASP.NET Web API 2.2 for OData v1-3 简体中文资源 -> 5.7.0
-NuGet.VisualStudio -> 2.8.6
-Microsoft Owin Hosting 한국어 리소스 -> 3.0.1
-Microsoft Owin HttpListener — zasoby dla języka polskiego -> 3.0.1
-Recursos en español para las bibliotecas principales de Microsoft ASP.NET Universal Providers -> 2.0.0
-System.Net.NameResolution -> 4.0.0-beta-23516
-Risorse in lingua italiana per Entity Framework -> 6.1.3
-Microsoft.Net.ToolsetCompilers -> 1.0.0-rc3-20150520-02
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-Reactive Extensions - Windows Runtime Helpers -> 2.2.5
-Microsoft ASP.NET Web Optimization 繁體中文 資源 -> 1.1.3
-Microsoft Team Foundation Server Client -> 14.89.0
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Microsoft Visual Studio Services Client (Interactive) -> 14.89.0
-Reactive Extensions - Windows Forms Helpers -> 2.2.5
-Recursos de español de Microsoft ASP.NET Identity Core -> 2.2.1
-Ressources Français Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
-Reactive Extensions for JavaScript - Time-Based Operations -> 4.0.7
-Microsoft Owin HttpListener Türkçe Kaynaklar -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Help Page for VB -> 5.2.3
-Microsoft.ScriptManager.jQuery -> 1.7.2.1
-Rx_Experimental-Xaml -> 1.1.11111
-Recursos em Português-BR de Microsoft ASP.NET MVC -> 5.2.3
-Microsoft.AspNet.SignalR.Server -> 3.0.0-beta5
-Microsoft Team Foundation Server Extended Client -> 14.89.0
-Microsoft Owin Hosting – české prostředky -> 3.0.1
-Ressources en Français pour Microsoft Owin Security Active Directory -> 3.0.1
-Recursos de español de Microsoft ASP.NET Identity Owin -> 2.2.1
-Microsoft.ScriptManager.jQuery.UI.Combined -> 1.8.20.1
-Microsoft Dynamics CRM 2016 SDK workflow assembly -> 8.0.0
-Reactive Extensions - Silverlight Helpers -> 2.2.5
-Recursos de español de Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Recursos de español de Microsoft Owin -> 3.0.1
-RIAServices.Server -> 4.2.0
-Reactive Extensions for JavaScript - Binding -> 4.0.7
-Recursos en español de Microsoft Owin Security -> 3.0.1
-Microsoft Owin Security 日本語リソース -> 3.0.1
-Ressources en français sur Microsoft ASP.NET Identity Core -> 2.2.1
-Recursos em Português-BR do Microsoft ASP.NET SignalR Client -> 2.2.0
-Recursos en español de host de Microsoft ASP.NET para aplicaciones web OWIN -> 3.0.1
-Microsoft Owin HttpListener 한국어 리소스 -> 3.0.1
-Microsoft Owin 日本語リソース -> 3.0.1
-Microsoft Owin Diagnostics - Risorse per l'italiano -> 3.0.1
-Reactive Extensions for JavaScript - Test Library -> 4.0.7
-Recursos en español para Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-Recursos pt-br do Microsoft Owin HttpListener -> 3.0.1
-Reactive Extensions - Providers Library -> 2.2.5
-Microsoft Owin Diagnostics – české prostředky -> 3.0.1
-Reactive Extensions for JavaScript - Aggregation Operations -> 4.0.7
-RIA Services SOAP and JSON Endpoints -> 4.2.0
-Microsoft Owin Hosting - Risorse per l'italiano -> 3.0.1
-Microsoft Owin Diagnostics 한국어 리소스 -> 3.0.1
-Русские ресурсы Microsoft ASP.NET Web Optimization -> 1.1.3
-Reactive Extensions for JavaScript - Coincidence -> 4.0.7
-Reactive Extensions for JavaScript - Join Patterns -> 4.0.7
-Microsoft Owin Security Google 日本語リソース -> 3.0.1
-Recursos pt-br do Microsoft Owin Diagnostics -> 3.0.1
-Microsoft Owin Security Microsoft Account 日本語リソース -> 3.0.1
-Microsoft Owin Security Facebook 日本語リソース -> 3.0.1
-Recursos en español para Microsoft ASP.NET SignalR Client -> 2.2.0
-Microsoft Owin Security Twitter 日本語リソース -> 3.0.1
-Recursos en español de Microsoft Owin HttpListener -> 3.0.1
-Recursos en español para la biblioteca de Microsoft WebPages OAuth -> 3.2.3
-Reactive Extensions for JavaScript - All Libraries -> 4.0.7
-Recursos en español para Microsoft Owin Security Twitter -> 3.0.1
-Русские ресурсы Microsoft ASP.NET SignalR Client -> 2.2.0
-Microsoft Owin Hosting 日本語リソース -> 3.0.1
-Recursos en español de Microsoft Owin Diagnostics -> 3.0.1
-Recursos en español para Microsoft Owin Security Google -> 3.0.1
-Microsoft ASP.NET Web Pages - Risorse per l'italiano -> 3.2.3
-Recursos en español de Microsoft Owin Security Facebook -> 3.0.1
-Recursos en español para Microsoft ASP.NET Web Pages Data -> 3.2.3
-System.Xml.XPath -> 4.0.0
-Recursos en español para Microsoft Owin Security Microsoft Account -> 3.0.1
-Microsoft Owin Security Active Directory 日本語リソース -> 3.0.1
-PayPal.Helper -> 1.0.1
-Microsoft Owin Diagnostics Türkçe Kaynaklar -> 3.0.1
-Reactive Extensions for JavaScript - Experimental -> 4.0.7
-Ressources en français pour Microsoft Owin HttpListener -> 3.0.1
-Microsoft ASP.NET Web Pages 한국어 리소스 -> 3.2.3
-Ressources en français pour Microsoft Owin -> 3.0.1
-Ressources en français de l’hôte Microsoft ASP.NET pour les applications Web OWIN -> 3.0.1
-Microsoft ASP.NET Web API 2.2 para recursos OData v1-3 en español -> 5.7.0
-Ressources en français pour Microsoft Owin Security -> 3.0.1
-Ressources en français pour Microsoft Owin Hosting -> 3.0.1
-Ressources en français pour Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Microsoft Owin Diagnostics 日本語リソース -> 3.0.1
-Microsoft Owin Diagnostics — zasoby dla języka polskiego -> 3.0.1
-Ressources en français pour Microsoft ASP.NET Identity Owin -> 2.2.1
-Office JavaScript API -> 1.1.0.9
-Windows Azure Mobile Services for WinJS -> 1.2.5
-Ressources en français pour Microsoft ASP.NET SignalR Client -> 2.2.0
-Русские ресурсы Microsoft Owin HttpListener -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Web Host - Risorse per l'italiano -> 5.2.3
-Microsoft Owin HttpListener – české prostředky -> 3.0.1
-Recursos em Português-BR do Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
-Microsoft ASP.NET Web API 2.2 Client Libraries - Risorse per l'italiano -> 5.2.3
-Ressources en français pour Microsoft Owin Security Facebook -> 3.0.1
-Microsoft Owin Diagnostics 繁體中文資源 -> 3.0.1
-Ressources en français pour Microsoft Owin Security Google -> 3.0.1
-Microsoft Owin 繁體中文 資源 -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Core Libraries - Risorse per l'italiano -> 5.2.3
-System.Security.Cryptography.DeriveBytes -> 4.0.0-beta-23225
-Microsoft Owin HttpListener 繁體中文資源 -> 3.0.1
-Ressources en français pour Microsoft Owin Security Microsoft Account -> 3.0.1
-Ressources en français pour Microsoft Owin Security Twitter -> 3.0.1
-Microsoft Owin Security 繁體中文資源 -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Core Libraries 한국어 리소스 -> 5.2.3
-Recursos Português-BR de Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Reactive Extensions for JavaScript - Virtual Time-Based Schedulers -> 4.0.7
-Microsoft ASP.NET Web API 2.2 Client Libraries 한국어 리소스 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Web Host 한국어 리소스 -> 5.2.3
-Microsoft Owin Security Twitter Türkçe Kaynakları -> 3.0.1
-Reactive Extensions for JavaScript - Lite Library -> 4.0.7
-Microsoft Owin Security Facebook Türkçe Kaynakları -> 3.0.1
-Microsoft.ScriptManager.MSAjax -> 1.0.1
-Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-Microsoft.AspNet.Mvc.WebApiCompatShim -> 6.0.0-rc1-final
-Microsoft ASP.NET Web API 2.2 Tracing 简体中文资源 -> 5.2.3
-Microsoft Owin Türkçe Kaynaklar -> 3.0.1
-Ressources en français pour les bibliothèques principales de Microsoft ASP.NET Universal Providers -> 2.0.0
-Ressources en français pour Microsoft Owin Diagnostics -> 3.0.1
-RIAServices.T4 -> 4.2.0
-Microsoft Owin Security Facebook 繁體中文 資源 -> 3.0.1
-Русские ресурсы Microsoft ASP.NET Identity Core -> 2.2.1
-Microsoft Owin Security Google 繁體中文 資源 -> 3.0.1
-Microsoft.ScriptManager.WebForms -> 1.0.1
-Microsoft Owin Security Microsoft Account 繁體中文 資源 -> 3.0.1
-Microsoft Owin HttpListener 日本語リソース -> 3.0.1
-Microsoft Owin Security Twitter 繁體中文 資源 -> 3.0.1
-Microsoft Owin Security Microsoft Account Türkçe Kaynakları -> 3.0.1
-Microsoft Owin Security Google Türkçe Kaynakları -> 3.0.1
-Ressources en français pour Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-Starter Site Template (VB) - Web Pages v2 -> 1.0.0
-Recursos em Português-BR Microsoft ASP.NET Razor -> 3.2.3
-Reactive Extensions - Windows Store Apps Support Library -> 2.2.5
-Windows Runtime API for MIDI Preview -> 1.0.0
-Microsoft DotNetOpenAuth ASP.NET Membership - české prostředky -> 2.0.1
-Microsoft Owin Security Active Directory 简体中文资源 -> 3.0.1
-OWIN Web Uygulamaları Türkçe Kaynakları için Microsoft ASP.NET Ana Bilgisayarı -> 3.0.1
-Русские ресурсы Microsoft Owin Hosting -> 3.0.1
-Microsoft ASP.NET Web Optimization - Risorse per l'italiano -> 1.1.3
-Microsoft Owin Security Twitter – české zdroje -> 3.0.1
-Microsoft ASP.NET Web API 2.2 for OData v1-3 日本語リソース -> 5.7.0
-Ressources en français pour la bibliothèque Microsoft WebPages OAuth -> 3.2.3
-kre-clr-win-x86 -> 1.0.0-beta3
-System.Web.Providers.SqlCE -> 1.1.0
-Microsoft.AspNet.TestHost -> 1.0.0-rc1-final
-Ressources en français Microsoft ASP.NET Web API 2.2 pour OData v1-3 -> 5.7.0
-Ressources en français pour Microsoft ASP.NET Web Pages Data -> 3.2.3
-Microsoft Owin Security Türkçe Kaynaklar -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Microsoft ASP.NET Web Pages Web Data 繁體中文資源 -> 3.2.3
-Русские ресурсы Microsoft Owin -> 3.0.1
-Recursos en español para Microsoft ASP.NET Friendly URLs -> 1.0.2
-Русские ресурсы Microsoft Owin Security -> 3.0.1
-Microsoft Owin Security Facebook – české zdroje -> 3.0.1
-Microsoft Owin Security Google – české zdroje -> 3.0.1
-Microsoft ASP.NET Web API 2.2 para recursos de Português do Brasil do OData v4.0 -> 5.7.0
-Microsoft Owin Security Microsoft Account – české zdroje -> 3.0.1
-Русские ресурсы Microsoft ASP.NET Host for OWIN Web Applications -> 3.0.1
-Microsoft ASP.NET Web Pages Web Data 日本語リソース -> 3.2.3
-Русские ресурсы Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-deprecated Win2D -> 1.0.0
-Microsoft ASP.NET Web Optimization 한국어 리소스 -> 1.1.3
-Microsoft ASP.NET Web API 2.2 for OData v1-3 繁體中文資源 -> 5.7.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR Core -> 2.2.0
-Русские ресурсы Microsoft ASP.NET Identity Owin -> 2.2.1
-Recursos do Microsoft ASP.NET Identity Core em português do Brasil -> 2.2.1
-System.IO.Pipes -> 4.0.0-beta-23516
-Русские ресурсы Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Reactive Extensions for JavaScript - Async-Based Operations -> 4.0.7
-Microsoft ASP.NET Web Pages Data 繁體中文資源 -> 3.2.3
-Microsoft WebPages OAuth 程式庫 繁體中文 資源 -> 3.2.3
-Русские ресурсы Microsoft Owin Diagnostics -> 3.0.1
-Microsoft Owin – české prostředky -> 3.0.1
-Microsoft ASP.NET Web Pages Data 日本語リソース -> 3.2.3
-RIA Services for Azure Table Storage -> 4.2.0
-Русские ресурсы Microsoft Owin Security Facebook -> 3.0.1
-Русские ресурсы Microsoft Owin Security Microsoft Account -> 3.0.1
-Русские ресурсы Microsoft Owin Security Google -> 3.0.1
-Recursos do Português do Brasil do Microsoft ASP.NET MVC Facebook -> 5.1.2
-Microsoft Owin Security – české prostředky -> 3.0.1
-Русские ресурсы Microsoft Owin Security Twitter -> 3.0.1
-Русские ресурсы Microsoft ASP.NET Web API 2.2 for OData v1-3 -> 5.7.0
-Microsoft DotNetOpenAuth ASP.NET Membership Türkçe Kaynakları -> 2.0.1
-Microsoft DotNetOpenAuth ASP.NET Membership 简体中文 资源 -> 2.0.1
-Русские ресурсы Microsoft ASP.NET MVC Facebook -> 5.1.2
-Reactive Extensions for JavaScript - Bridges to jQuery -> 1.1.6
-Русские ресурсы Microsoft ASP.NET Web Pages Data -> 3.2.3
-Recursos en español para Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Microsoft WebPages OAuth library 日本語 リソース -> 3.2.3
-jQuery Data Link (Beta 1) -> 0.1.0
-Microsoft Owin Security Jwt 简体中文资源 -> 3.0.1
-Recursos em Português-BR Microsoft ASP.NET Web Pages -> 3.2.3
-Recursos en español para Microsoft ASP.NET MVC Facebook -> 5.1.2
-Microsoft.CodeAnalysis.Compilers -> 1.1.1
-Microsoft ASP.NET Web API 2.2 Owin 简体中文资源 -> 5.2.3
-Ressources en français pour Microsoft ASP.NET MVC Facebook -> 5.1.2
-RIAServices.jQuery -> 4.1.60914.2
-System.Runtime.CompilerServices.VisualC -> 4.0.0-beta-23516
-Microsoft ASP.NET Web API 2.2 for OData v4.0 — zasoby dla języka polskiego -> 5.7.0
-Windows Azure Cache Memcache Shim -> 2.8.0
-Microsoft.VisualStudio.LanguageServices -> 1.1.1
-Microsoft Owin - Risorse per l'italiano -> 3.0.1
-Microsoft.AspNet.Security.OAuth -> 1.0.0-beta3
-Microsoft Owin Security - Risorse per l'italiano -> 3.0.1
-Microsoft Owin Hosting 繁體中文資源 -> 3.0.1
-Microsoft ASP.NET Web Optimization Türkçe Kaynakları -> 1.1.3
-Recursos de Português do Brasil do Microsoft ASP.NET Cross-Origin Support -> 5.2.3
-Microsoft.AspNet.DynamicDataTemplates.CS -> 1.0.0-beta1
-Microsoft ASP.NET Web API 2.2 Owin Türkçe Kaynaklar -> 5.2.3
-OData v4.0 için Microsoft ASP.NET Web API 2.2 için Türkçe Kaynakları -> 5.7.0
-RIAServices.ViewModel -> 4.1.60730.1
-OData v4.0용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
-Recursos em português do Brasil do Microsoft ASP.NET Identity Owin -> 2.2.1
-Microsoft.Web.SessionState.SqlInMemory -> 1.0.2
-Microsoft Owin Security Google - Risorse per l'italiano -> 3.0.1
-Microsoft Owin Security Facebook - Risorse per l'italiano -> 3.0.1
-Microsoft Owin Security Microsoft Account - Risorse per l'italiano -> 3.0.1
-Semantic Logging Application Block - Out-of-process Service -> 2.0.1406.1
-Microsoft Owin Security Twitter - Risorse per l'italiano -> 3.0.1
-Recursos em português do Brasil do Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Microsoft ASP.NET Web Pages Web Data - Risorse per l'italiano -> 3.2.3
-System.Diagnostics.FileVersionInfo -> 4.0.0-beta-23516
-Microsoft ASP.NET Web API 2.2 Tracing 日本語リソース -> 5.2.3
-Microsoft.AspNet.Security.Google -> 1.0.0-beta3
-Microsoft.AspNet.Security.Facebook -> 1.0.0-beta3
-Microsoft ASP.NET Web Pages Web Data 한국어 리소스 -> 3.2.3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support Türkçe Kaynaklar -> 5.2.3
-RIA Services for EntityFramework 4.0 (ObjectContext) -> 4.2.0
-Microsoft ASP.NET Web API 2.2 per OData v1-3 - Risorse per l'italiano -> 5.7.0
-Recursos em português do Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-System.Xml.XPath.XmlDocument -> 4.0.0
-kre-clr-win-x64 -> 1.0.0-beta3
-Recursos en español para Microsoft ASP.NET Cross-Origin Support -> 5.2.3
-Microsoft.AspNet.Security.Twitter -> 1.0.0-beta3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-Microsoft ASP.NET Web API 2.2 pro OData v4.0 - české prostředky -> 5.7.0
-Recursos de español de seguimiento de Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Podpora Microsoft ASP.NET Cross-Origin Support – české prostředky -> 5.2.3
-ODataLib for WIndows Phone -> 5.0.0
-Microsoft.AspNet.Security.MicrosoftAccount -> 1.0.0-beta3
-Recursos en español de Microsoft ASP.NET Web API 2.2 para OData v4.0 -> 5.7.0
-Microsoft WebPages OAuth 라이브러리 한국어 리소스 -> 3.2.3
-Microsoft ASP.NET Web Pages Data 한국어 리소스 -> 3.2.3
-Microsoft ASP.NET Web Pages Data - Risorse per l'italiano -> 3.2.3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
-RIA Services Silverlight Client -> 4.2.0
-Reactive Extensions - Experimental Library -> 2.2.5
-OData Client for Windows Phone Apps -> 5.0.0
-OData v1-3용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
-Microsoft.SharePoint.Emulators -> 1.0.0
-Microsoft Owin 한국어 리소스 -> 3.0.1
-Microsoft ASP.NET Web API 2.2 for OData v4.0 日本語リソース -> 5.7.0
-Microsoft Owin Security 한국어 리소스 -> 3.0.1
-OWIN 웹 응용 프로그램용 Microsoft ASP.NET 호스트 한국어 리소스 -> 3.0.1
-Reactive Extensions - .NET Remoting Support -> 2.2.5
-Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Optimization -> 1.1.3
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Microsoft Azure Active Directory Graph Client Library for Javascript -> 1.0.19
-Recursos Português-BR do Microsoft ASP.NET Web Optimization -> 1.1.3
-OData Client T4 -> 1.0.0-rc1
-Microsoft ASP.NET Web API 2.2 Owin — zasoby dla języka polskiego -> 5.2.3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-Recursos de español de Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
-Microsoft DotNetOpenAuth ASP.NET Membership 日本語 リソース -> 2.0.1
-Microsoft ASP.NET Web Pages — zasoby dla języka polskiego -> 3.2.3
-Microsoft.CodeAnalysis.CodeActions -> 0.7.4091001-beta
-Recursos en español para Microsoft ASP.NET SignalR -> 2.2.0
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
-Microsoft ASP.NET Web API 2.2 for OData v4.0 繁體中文 資源 -> 5.7.0
-Recursos en español para Microsoft ASP.NET SignalR Core -> 2.2.0
-Reactive Extensions for JavaScript - Bridges to the HTML DOM -> 6.0.0
-Microsoft ASP.NET Web API 2.2 Owin - české prostředky -> 5.2.3
-Microsoft Owin Security Facebook 한국어 리소스 -> 3.0.1
-Microsoft Owin Security Google 한국어 리소스 -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Self Host 简体中文资源 -> 5.2.3
-Microsoft Owin Security Microsoft Account 한국어 리소스 -> 3.0.1
-System.Net.Utilities -> 4.0.0-beta-23516
-Microsoft Owin Security Twitter 한국어 리소스 -> 3.0.1
-Photo Gallery Template (VB) - Razor v2 -> 1.0.0
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support 한국어 리소스 -> 5.2.3
-RIAServices.UnitTesting -> 4.2.0
-Microsoft.AspNet.WebSockets.Server -> 1.0.0-rc1-final
-Microsoft ASP.NET Web API 2.2 Owin 日本語リソース -> 5.2.3
-Recursos em Português-BR Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-Microsoft Owin Diagnostics 简体中文资源 -> 3.0.1
-Ressources Microsoft ASP.NET Cross-Origin Support en français -> 5.2.3
-Wishlist Template -> 1.0.0
-Microsoft DotNetOpenAuth ASP.NET Membership - Risorse per l'italiano -> 2.0.1
-Microsoft ASP.NET Web API 2.2 for OData v4.0 - Risorse per l'italiano -> 5.7.0
-Microsoft.AspNet.WebSockets.Protocol -> 1.0.0-rc1-final
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support — zasoby dla języka polskiego -> 5.2.3
-SharePoint Web Toolkit 的应用程序(适用于 SharePoint 2013) -> 3.1.2
-Microsoft ASP.NET Web API 2.2 Tracing 繁體中文 資源 -> 5.2.3
-Русские ресурсы Microsoft ASP.NET Cross-Origin Support -> 5.2.3
-Русские ресурсы Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 5.7.0
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-Recursos de Português-BR do Microsoft ASP.NET SignalR -> 2.2.0
-Microsoft ASP.NET Web API 2.2 Self Host 日本語リソース -> 5.2.3
-Recursos en español para Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-Recursos Português-BR da Biblioteca do Microsoft WebPages OAuth -> 3.2.3
-SharePoint Web ツールキット用アプリ (SharePoint 2013 用) -> 3.1.2
-Recursos em Português-BR Microsoft ASP.NET Web Pages Data -> 3.2.3
-Microsoft DotNetOpenAuth ASP.NET Membership 繁體中文資源 -> 2.0.1
-Recursos de español de Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Self Host 繁體中文 資源 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Self Host 한국어 리소스 -> 5.2.3
-Microsoft.Framework.ConfigurationModel.Xml -> 1.0.0-beta4
-Microsoft ASP.NET Web API 2.2 Self Host - Risorse per l'italiano -> 5.2.3
-Polski - zasoby pakietu Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Polski - zasoby pakietu Microsoft ASP.NET Identity Owin -> 2.2.1
-Microsoft Owin Security Twitter — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Client Libraries — zasoby dla języka polskiego -> 5.2.3
-Ressources en français pour Microsoft ASP.NET SignalR -> 2.2.0
-Ressources en français Microsoft ASP.NET Friendly URLs -> 1.0.2
-Microsoft ASP.NET Web API 2.2 Web Host — zasoby dla języka polskiego -> 5.2.3
-System.IO.MemoryMappedFiles -> 4.0.0-beta-23516
-Microsoft ASP.NET Web Pages – české prostředky -> 3.2.3
-Microsoft ASP.NET Web Pages Türkçe Kaynaklar -> 3.2.3
-Microsoft Owin Security Facebook — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web API 2.2 para recursos de Português do Brasil do OData v1-3 -> 5.7.0
-Microsoft Owin — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support 繁體中文 資源 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Core Libraries — zasoby dla języka polskiego -> 5.2.3
-Microsoft.Owin.Security.WindowsAzure -> 2.0.0-rc1
-Ressources en français pour Microsoft ASP.NET SignalR Core -> 2.2.0
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Microsoft Owin Security Google — zasoby dla języka polskiego -> 3.0.1
-Recursos de español de Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-TranslatorWidget -> 1.0.4
-Microsoft.AspNet.Security.OpenIdConnect -> 1.0.0-beta3
-Polski - zasoby pakietu Microsoft ASP.NET Identity Core -> 2.2.1
-Ressources en français pour Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Microsoft ASP.NET Web Pages 2 Administration Türkçe Kaynakları -> 2.0.30506
-Microsoft ASP.NET Web API 2.2 for OData v1-3 — zasoby dla języka polskiego -> 5.7.0
-Microsoft ASP.NET Web API 2.2 Owin - Risorse per l'italiano -> 5.2.3
-Recursos em português do Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
-Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Microsoft ASP.NET Web Pages Web Data — zasoby dla języka polskiego -> 3.2.3
-Microsoft Owin HttpListener 简体中文资源 -> 3.0.1
-System.Xml.XPath.XDocument -> 4.0.0
-Microsoft.Framework.Cache.Distributed -> 1.0.0-beta3
-Microsoft ASP.NET Web API 2.2 Client Libraries - české prostředky -> 5.2.3
-Microsoft ASP.NET Web API SignalR Integration -> 5.0.0-rc1
-Microsoft ASP.NET Web Pages Web Data Türkçe Kaynaklar -> 3.2.3
-Microsoft ASP.NET Web API 2.2 for OData v1-3 - české prostředky -> 5.7.0
-Microsoft ASP.NET Web API 2.2 Web Host - české prostředky -> 5.2.3
-Microsoft ASP.NET Web Pages Web Data – české prostředky -> 3.2.3
-Ressources en français pour Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
-Office Web Widgets - Experimental -> 0.1.0
-Microsoft ASP.NET Web API 2.2 Tracing - Risorse per l'italiano -> 5.2.3
-Microsoft ASP.NET Web Pages 2 Administration - české prostředky -> 2.0.30506
-Microsoft ASP.NET Web API 2.2 Core Libraries - české prostředky -> 5.2.3
-OData v1-3 Türkçe Kaynaklar için Microsoft ASP.NET Web API 2.2 -> 5.7.0
-RIA Services for Linq to Sql (DataContext) -> 4.2.0
-Русские ресурсы Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
-Microsoft ASP.NET Web Pages 2 Administration 简体中文 资源 -> 2.0.30506
-Microsoft ASP.NET Web API 2.2 Self Host - české prostředky -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Self Host — zasoby dla języka polskiego -> 5.2.3
-Microsoft Owin Security — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web Pages Data — zasoby dla języka polskiego -> 3.2.3
-System.IO.FileSystem.DriveInfo -> 4.0.0-beta-23516
-Microsoft Dynamics CRM 2016 SDK Outlook client assembly -> 8.0.0
-Microsoft Owin Security Microsoft Account — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Self Host Türkçe Kaynaklar -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Tracing 한국어 리소스 -> 5.2.3
-Zasoby dla języka polskiego dotyczące biblioteki Microsoft WebPages OAuth -> 3.2.3
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support 简体中文资源 -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Client Libraries Türkçe Kaynaklar -> 5.2.3
-Microsoft ASP.NET Web Pages Data Türkçe Kaynaklar -> 3.2.3
-Microsoft ASP.NET Web API 2.2 Owin 繁體中文 資源 -> 5.2.3
-Recursos do Microsoft Owin pt-br -> 3.0.1
-Microsoft ASP.NET Web API 2.2 Web Host Türkçe Kaynaklar -> 5.2.3
-Microsoft WebPages OAuth kitaplığı Türkçe Kaynakları -> 3.2.3
-Microsoft ASP.NET Web Pages Data – české prostředky -> 3.2.3
-Microsoft ASP.NET Web API 2.2 Core Libraries Türkçe Kaynaklar -> 5.2.3
-Русские ресурсы Microsoft ASP.NET SignalR -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR Core -> 2.2.0
-Recursos pt-br do Microsoft Owin Security -> 3.0.1
-Recursos pt-br do Host do Microsoft ASP.NET para Aplicativos Web OWIN -> 3.0.1
-Microsoft ASP.NET WebHooks Common Module -> 1.2.0-beta4
-Microsoft WebPages OAuth library - české prostředky -> 3.2.3
-Recursos pt-br do Microsoft Owin Security Google -> 3.0.1
-Recursos pt-br do Microsoft Owin Security Facebook -> 3.0.1
-Recursos pt-br do Microsoft Owin Security Twitter -> 3.0.1
-RIA Services Web Forms Controls -> 4.2.0
-Recursos pt-br do Microsoft Owin Security Microsoft Account -> 3.0.1
-Ressources en français pour Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-Microsoft ASP.NET Web API 2.2 for OData v4.0 简体中文资源 -> 5.7.0
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support 日本語リソース -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support - Risorse per l'italiano -> 5.2.3
-Русские ресурсы Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Microsoft ASP.NET WebHooks Receivers -> 1.2.0-beta4
-Русские ресурсы Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
-Microsoft ASP.NET Web Pages 2 Administration 한국어 리소스 -> 2.0.30506
-Microsoft Owin Hosting 简体中文资源 -> 3.0.1
-Microsoft ASP.NET Web Pages 2 Administration 繁體中文資源 -> 2.0.30506
-SharePoint 웹 도구 키트용 앱(SharePoint 2013용) -> 3.1.1
-Microsoft ASP.NET Web API 2.2 Cross-Origin Support - české prostředky -> 5.2.3
-Recursos em português do Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Microsoft ASP.NET Web API 2.2 Tracing — zasoby dla języka polskiego -> 5.2.3
-Приложение для пакета веб-средств SharePoint (для SharePoint 2013) -> 3.1.1
-Microsoft ASP.NET Web Pages 2 Administration - Risorse per l'italiano -> 2.0.30506
-Microsoft ASP.NET Web Optimization - české prostředky -> 1.1.3
-Microsoft ASP.NET Web API 2.2 Tracing - české prostředky -> 5.2.3
-Ressources en français pour Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Microsoft ASP.NET Web API 2.2 Owin 한국어 리소스 -> 5.2.3
-Русские ресурсы Microsoft ASP.NET Friendly URLs -> 1.0.2
-Recursos en español para Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Русские ресурсы Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Microsoft ASP.NET Web API 2.2 Tracing Türkçe Kaynaklar -> 5.2.3
-Recursos Português-BR de Bibliotecas Principais dos Microsoft ASP.NET Universal Providers -> 2.0.0
-Microsoft DotNetOpenAuth ASP.NET Membership 한국어 리소스 -> 2.0.1
-Recursos Português-BR de Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Microsoft.AspNet.Diagnostics.Elm -> 1.0.0-rc1-final
-Microsoft ASP.NET Web Pages 2 Administration 日本語 リソース -> 2.0.30506
-Enterprise Library 5.0 - Autoscaling Application Block -> 5.0.1118.2
-EntityFramework -> 6.1.3
-Microsoft ASP.NET Identity Core -> 2.2.1
-Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
-Microsoft ASP.NET Identity Core Türkçe Kaynaklar -> 2.2.1
-Interactive Extensions for JavaScript - LINQ to Objects -> 1.0.6
-Microsoft ASP.NET SignalR - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET Cross-Origin Support の日本語リソース -> 5.2.3
-Microsoft ASP.NET Identity Owin -> 2.2.1
-Kit de ressources web des applications pour SharePoint (pour SharePoint 2013) -> 3.1.2
-Microsoft ASP.NET MVC Fixed DisplayModes (deprecated) -> 5.0.0
-Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Microsoft ASP.NET SignalR Core 한국어 리소스 -> 2.2.0
-KRE-CLR-amd64 -> 1.0.0-beta2
-Microsoft ASP.NET Cross-Origin Support 简体中文资源 -> 5.2.3
-Host platformy Microsoft ASP.NET dla aplikacji sieci Web środowiska OWIN — zasoby dla języka polskiego -> 3.0.1
-Microsoft ASP.NET SignalR Core Components -> 2.2.0
-Microsoft ASP.NET SignalR Client 简体中文资源 -> 2.2.0
-Microsoft ASP.NET Friendly URLs 한국어 리소스 -> 1.0.2
-Microsoft ASP.NET Identity Core - české prostředky -> 2.2.1
-KRE-CoreCLR-x86 -> 1.0.0-beta2
-Microsoft ASP.NET MVC 4 Styled (C#) Scaffolding View Templates -> 5.1.0
-Microsoft ASP.NET Web API 2.1 Scaffolding Controller Templates (C#) with Attribute Routing -> 5.1.0
-Microsoft ASP.NET SignalR SystemWeb 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET Friendly URLs - Risorse per l'italiano -> 1.0.2
-Microsoft ASP.NET SignalR SystemWeb 日本語リソース -> 2.2.0
-Microsoft ASP.NET Universal Providers for LocalDB -> 2.0.0
-Microsoft .NET Framework 4 HTTP Client Libraries - české prostředky -> 2.0.20710
-Microsoft ASP.NET SignalR 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR Core 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR JavaScript Client -> 2.2.0
-Microsoft ASP.NET Identity EntityFramework - české prostředky -> 2.2.1
-Interactive Extensions for JavaScript - Main -> 1.0.6
-Microsoft ASP.NET Cross-Origin Support -> 5.2.3
-Microsoft ASP.NET Razor Türkçe Kaynaklar -> 3.2.3
-Microsoft ASP.NET SignalR -> 2.2.0
-Microsoft ASP.NET SignalR System.Web -> 2.2.0
-JSON Web Token Handler For the Microsoft .Net Framework 4.5 -> 4.0.2.206221351
-EntityFramework.Migrations -> 7.0.0-beta2
-Microsoft ASP.NET SignalR 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Core - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET Universal Providers -> 2.0.0
-Microsoft ASP.NET SignalR – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR Core 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Türkçe Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR OWIN -> 1.2.2
-Lightweight process manager for YARN -> 0.7.5-beta
-Microsoft ASP.NET MVC Facebook の日本語リソース -> 5.1.2
-Microsoft ASP.NET SignalR .NET Client -> 2.2.0
-Microsoft ASP.NET MVC Türkçe Kaynaklar -> 5.2.3
-EntityFramework.SqlServerCompact -> 6.1.3
-Microsoft ASP.NET Custom WebHooks Azure Storage Module -> 1.2.0-beta4
-Microsoft ASP.NET Razor – české prostředky -> 3.2.3
-Microsoft ASP.NET Cross-Origin Support - Risorse per l'italiano -> 5.2.3
-Microsoft ASP.NET Cross-Origin Support 繁體中文資源 -> 5.2.3
-Ix-Async -> 1.2.5
-Microsoft ASP.NET Identity Owin 한국어 리소스 -> 2.2.1
-Microsoft ASP.NET Identity EntityFramework 한국어 리소스 -> 2.2.1
-Microsoft ASP.NET MVC 4 – české prostředky -> 5.2.3
-Microsoft ASP.NET Identity Core 한국어 리소스 -> 2.2.1
-KRE-Mono -> 1.0.0-beta3
-Microsoft ASP.NET Friendly URLs 繁體中文資源 -> 1.0.2
-Microsoft ASP.NET MVC — zasoby dla języka polskiego -> 5.2.3
-Kestrel -> 1.0.0-beta6
-Microsoft ASP.NET SignalR SystemWeb - Risorse per l'italiano -> 2.2.0
-Libreria Microsoft WebPages OAuth - Risorse per l'italiano -> 3.2.3
-EntityFramework.Commands -> 7.0.0-rc1-final
-Microsoft ASP.NET Custom WebHooks MVC Module -> 1.2.0-beta4
-Microsoft ASP.NET Cross-Origin Support 한국어 리소스 -> 5.2.3
-Microsoft ASP.NET SignalR i18n Resources -> 2.2.0
-Microsoft ASP.NET Host pro webové aplikace OWIN - české prostředky -> 3.0.1
-Microsoft ASP.NET MVC Scaffolding Controller Templates (C#) with Attribute Routing -> 5.1.0
-Microsoft ASP.NET MVC Facebook 繁體中文資源 -> 5.1.2
-Microsoft ASP.NET Razor 简体中文资源 -> 3.2.3
-Microsoft ASP.NET Universal Providers Core Libraries - Risorse per l'italiano -> 2.0.0
-Microsoft ASP.NET MVC Facebook 简体中文资源 -> 5.1.2
-Microsoft ASP.NET Identity EntityFramework - Risorse per l'italiano -> 2.2.1
-Microsoft ASP.NET Identity Owin - Risorse per l'italiano -> 2.2.1
-Microsoft ASP.NET SignalR SystemWeb 简体中文资源 -> 2.2.0
-Microsoft ASP.NET Universal Providers 핵심 라이브러리 한국어 리소스 -> 2.0.0
-Host Microsoft ASP.NET per applicazioni Web di OWIN - Risorse per l'italiano -> 3.0.1
-Microsoft ASP.NET Friendly URLs — zasoby dla języka polskiego -> 1.0.2
-Microsoft ASP.NET Cross-Origin Support dla języka polskiego z różnych źródeł -> 5.2.3
-Microsoft ASP.NET Friendly URLs – české prostředky -> 1.0.2
-Microsoft ASP.NET Friendly URLs 日本語リソース -> 1.0.2
-Microsoft ASP.NET MVC 简体中文资源 -> 5.2.3
-Microsoft .NET Framework 4 HTTP Client Libraries - Risorse per l'italiano -> 2.0.20710
-Microsoft ASP.NET SignalR Core – české prostředky -> 2.2.0
-Microsoft ASP.NET Identity Core - Risorse per l'italiano -> 2.2.1
-Microsoft ASP.NET Cross-Origin Support Türkçe Kaynaklar -> 5.2.3
-Microsoft ASP.NET SignalR 简体中文资源 -> 2.2.0
-Microsoft ASP.NET MVC Facebook - Risorse per l'italiano -> 5.1.2
-EntityFramework.Relational -> 7.0.0-rc1-final
-Microsoft .NET Framework 4 HTTP Client Libraries — zasoby dla języka polskiego -> 2.0.20710
-Microsoft ASP.NET MVC 4 Styled (VB) Scaffolding View Templates -> 5.1.0
-Microsoft ASP.NET Razor — zasoby dla języka polskiego -> 3.2.3
-Microsoft ASP.NET MVC Facebook Türkçe Kaynaklar -> 5.1.2
-Microsoft ASP.NET Razor -> 3.2.3
-Microsoft ASP.NET Friendly URLs Türkçe Kaynakları -> 1.0.2
-Microsoft .NET Framework 4 HTTP Client Libraries 한국어 리소스 -> 2.0.20710
-Microsoft ASP.NET Identity Owin - české prostředky -> 2.2.1
-Microsoft ASP.NET SignalR Core 简体中文资源 -> 2.2.0
-KRE-CoreCLR-amd64 -> 1.0.0-beta2
-EntityFramework.Core -> 7.0.0-rc1-final
-Microsoft ASP.NET Friendly URLs 简体中文资源 -> 1.0.2
-Microsoft ASP.NET Web API 2.1 Scaffolding Controller Templates (VB) with Attribute Routing -> 5.1.0
-Microsoft ASP.NET MVC Facebook – české prostředky -> 5.1.2
-Microsoft ASP.NET MVC Facebook 한국어 리소스 -> 5.1.2
-Interactive Extensions for JavaScript - All -> 1.0.6
-Microsoft ASP.NET MVC Facebook dla języka polskiego dotyczące usługi -> 5.1.2
-KRE-CLR-x86 -> 1.0.0-beta2
-EntityFramework.SqlServer -> 7.0.0-beta8
-Microsoft ASP.NET SignalR Core {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Self Host -> 2.2.0
-Microsoft ASP.NET SignalR Service Bus Messaging Backplane -> 2.2.0
-EntityFramework.Relational.Design -> 7.0.0-rc1-final
-Microsoft ASP.NET Custom WebHooks Module -> 1.2.0-beta4
-Microsoft ASP.NET MVC Scaffolding Controller Templates (VB) with Attribute Routing -> 5.1.0
-Microsoft ASP.NET SignalR Redis 简体中文资源 -> 2.2.0
-Microsoft .NET Framework 4 HTTP Client Libraries 简体中文 资源 -> 2.0.20710
-Microsoft ASP.NET SignalR Core — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR Redis Messaging Backplane -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Messaging Backplane -> 2.2.0
-Microsoft .NET Framework 4 HTTP Client Libraries Türkçe Kaynakları -> 2.0.20710
-Microsoft ASP.NET Identity Owin {繁體中文} 資源 -> 2.2.1
-Microsoft ASP.NET Identity EntityFramework {繁體中文} 資源 -> 2.2.1
-Microsoft ASP.NET Universal Providers Core Libraries 简体中文资源 -> 2.0.0
-Microsoft ASP.NET Universal Providers Core Libraries - české prostředky -> 2.0.0
-Microsoft ASP.NET Identity Core {繁體中文} 資源 -> 2.2.1
-EntityFramework.AzureTableStorage -> 7.0.0-beta1
-Microsoft ASP.NET Host for OWIN Web Applications 繁體中文資源 -> 3.0.1
-Localize -> 1.1.0
-Microsoft ASP.NET Universal Providers Temel Kitaplıkları Türkçe Kaynakları -> 2.0.0
-Microsoft ASP.NET SignalR Client 日本語リソース -> 2.2.0
-Ix-Main -> 1.2.5
-Microsoft ASP.NET SignalR Redis - Risorse per l'italiano -> 2.2.0
-Facebook.Helper -> 1.0.0
-Microsoft ASP.NET Universal Providers 核心程式庫繁體中文資源 -> 2.0.0
-Microsoft ASP.NET SignalR Client – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR Client 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb – české prostředky -> 2.2.0
-Microsoft ASP.NET Razor 日本語リソース -> 3.2.3
-Microsoft ASP.NET MVC 日本語リソース -> 5.2.3
-Microsoft ASP.NET SignalR Redis — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET MVC Futures -> 5.0.0
-Microsoft ASP.NET SignalR SystemWeb {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Redis {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb — zasoby dla języka polskiego -> 2.2.0
-Knihovny Microsoft ASP.NET SignalR SQL Server Libraries – české prostředky -> 2.2.0
-Microsoft ASP.NET Razor 한국어 리소스 -> 3.2.3
-Microsoft .NET Framework 4 HTTP Client Libraries 繁體中文 資源 -> 2.0.20710
-Microsoft ASP.NET MVC 한국어 리소스 -> 5.2.3
-Microsoft ASP.NET Universal Providers Core Libraries 日本語 リソース -> 2.0.0
-Microsoft ASP.NET SignalR SQL Server Libraries 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET MVC - Risorse per l'italiano -> 5.2.3
-Microsoft ASP.NET Identity EntityFramework 日本語リソース -> 2.2.1
-Microsoft ASP.NET SignalR SQL Server Libraries 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET Identity Owin 日本語リソース -> 2.2.1
-Microsoft ASP.NET Razor - Risorse per l'italiano -> 3.2.3
-Microsoft ASP.NET SignalR Client {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Client 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET Identity Core 日本語リソース -> 2.2.1
-Microsoft ASP.NET SignalR Redis – české prostředky -> 2.2.0
-Knihovny Microsoft ASP.NET SignalR ServiceBus Libraries – české prostředky -> 2.2.0
-Microsoft ASP.NET Universal Providers for SQL Compact Edition -> 2.0.0
-Microsoft ASP.NET Identity Owin Türkçe Kaynaklar -> 2.2.1
-Microsoft ASP.NET SignalR ServiceBus Libraries 日本語リソース -> 2.2.0
-EntityFramework.InMemory -> 7.0.0-rc1-final
-Microsoft ASP.NET Host for OWIN Web Applications 日本語リソース -> 3.0.1
-Microsoft ASP.NET MVC Facebook -> 5.1.2
-Microsoft ASP.NET MVC Diagnostics -> 5.2.3
-Microsoft ASP.NET SignalR Client — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries {Türkçe} Kaynaklar -> 2.2.0
-Microsoft .NET Framework 4 HTTP Client Libraries 日本語 リソース -> 2.0.20710
-Microsoft ASP.NET MVC 繁體中文資源 -> 5.2.3
-Microsoft ASP.NET Razor 繁體中文資源 -> 3.2.3
-Microsoft ASP.NET SignalR ServiceBus Libraries - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries {Türkçe} Kaynaklar -> 2.2.0
-EntityFramework.SqlServer.Design -> 7.0.0-beta8
-Microsoft ASP.NET MVC -> 5.2.3
-Microsoft ASP.NET SignalR Redis 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET Identity Owin 简体中文资源 -> 2.2.1
-Microsoft ASP.NET Identity Core 简体中文资源 -> 2.2.1
-Microsoft ASP.NET SignalR Client - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET Identity EntityFramework 简体中文资源 -> 2.2.1
-Microsoft ASP.NET SignalR Redis 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Redis 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR Utilities -> 2.2.0
-Microsoft ASP.NET Identity EntityFramework Türkçe Kaynaklar -> 2.2.1
-Microsoft ASP.NET SignalR ServiceBus Libraries 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 日本語リソース -> 2.2.0
-Enterprise Library 5.0 - Caching Application Block -> 5.0.505
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
-EdmLib for OData V1-3 -> 5.7.0
-Deutsche Ressourcen für Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
-Enterprise Library 5.0 - Cryptography Application Block -> 5.0.505
-Enterprise Library - Validation Application Block Integration with ASP.NET WebForms -> 6.0.1304
-Enterprise Library - Data Access Application Block SQL CE Data Provider -> 6.0.1304
-Deutsche Ressourcen für Microsoft Owin Diagnostics -> 3.0.1
-Deutsche Ressourcen für Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-Deutsche Ressourcen für Microsoft Owin Security Windows Azure -> 2.0.0-rc1
-Enterprise Library 3 Data Access Application Block -> 3.1.0
-Enterprise Library - Validation Application Block Integration with WinForms -> 6.0.1304
-Enterprise Library - Validation Application Block Integration with WPF -> 6.0.1304
-Deutsche Ressourcen für Microsoft ASP.NET Web Optimization -> 1.1.3
-Enterprise Library - Common Infrastructure -> 6.0.1304
-DynamicData.EFCodeFirstProvider -> 0.5.1
-Enterprise Library - Logging Application Block -> 6.0.1304
-Enterprise Library 5.0 - Security Application Block -> 5.0.505
-Enterprise Library - Data Access Application Block -> 6.0.1304
-Entity Framework 한국어 리소스 -> 6.1.3
-Enterprise Library - Transient Fault Handling Application Block -> 6.0.1304
-EdmLib -> 6.13.0
-Enterprise Library - Exception Handling Application Block -> 6.0.1304
-Deutsche Ressourcen für Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Entity Framework 繁體中文資源 -> 6.1.3
-Enterprise Library 5.0 - Security Application Block AzMan Authorization Provider -> 5.0.505
-Enterprise Library 5.0 - Silverlight Integration Pack Source Code -> 5.0.505
-Enterprise Library - Transient Fault Handling Application Block - Windows Azure SQL Database integration -> 6.0.1304.1
-Deutsche Ressourcen für Microsoft ASP.NET Web Pages -> 3.2.3
-Deutsche Ressourcen für Microsoft Owin Security Jwt -> 3.0.1
-Enterprise Library 5.0 - Caching Application Block Cryptography Provider -> 5.0.505
-Enterprise Library 5.0 - Security Application Block Caching Store -> 5.0.505
-Enterprise Library - Exception Handling Application Block Logging Handler -> 6.0.1304
-Enterprise Library 5.0 - Transient Fault Handling Application Block -> 5.1.1212
-Dryad and DryadLINQ for YARN -> 0.2.1-beta
-Enterprise Library - Validation Application Block -> 6.0.1304
-Enterprise Library 4 Data Access Application Block -> 4.1.0
-Enterprise Library - Validation Application Block Integration with WCF -> 6.0.1304
-Entity Framework 日本語リソース -> 6.1.3
-Enterprise Library 5.0 - Source Code -> 5.0.505
-Enterprise Library - Policy Injection Application Block -> 6.0.1304
-Deutsche Ressourcen für Microsoft Owin -> 3.0.1
-Deutsche Ressourcen für den Microsoft ASP.NET-Host für OWIN-Webanwendungen -> 3.0.1
-Deutsche Ressourcen für Microsoft Owin Security -> 3.0.1
-Deutsche Ressourcen für Microsoft Owin Security Active Directory -> 3.0.1
-Deutsche Ressourcen für Microsoft Owin Hosting -> 3.0.1
-Enterprise Library 5.0 - Caching Application Block Database Backing Store -> 5.0.505
-Enterprise Library - Exception Handling Application Block WCF Provider -> 6.0.1304
-Deutsche Ressourcen für Microsoft Owin HttpListener -> 3.0.1
-Enterprise Library 5.0 - Windows Azure Configuration Extensions -> 5.0.1118.2
-Enterprise Library 5.0 - Integration Pack for Windows Azure - Source -> 5.1.1212
-Deutsche Ressourcen für die Microsoft WebPages OAuth-Bibliothek -> 3.2.3
-Enterprise Library - Transient Fault Handling Application Block - Declarative configuration support -> 6.0.1304
-Deutsche Ressourcen für Microsoft ASP.NET Web Pages Data -> 3.2.3
-Enterprise Library 5.0 - Remote Logging Service -> 5.0.505
-Deutsche Ressourcen für Microsoft Owin Static Files -> 3.0.1
-Deutsche Ressourcen für Microsoft Owin Security Microsoft Account -> 3.0.1
-Enterprise Library - Transient Fault Handling Application Block - Windows Azure Storage integration -> 6.0.1304
-Deutsche Ressourcen für Microsoft Owin Security Facebook -> 3.0.1
-Deutsche Ressourcen für Microsoft Owin Security Google -> 3.0.1
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 für OData v1-3 -> 5.7.0
-Deutsche Ressourcen für Microsoft Owin Security Twitter -> 3.0.1
-Enterprise Library - Logging Application Block Database Provider -> 6.0.1304
-Deutsche Ressourcen für Microsoft ASP.NET Web Pages Web Data -> 3.2.3
-ASP.NET Universal Providers For LocalDB -> 1.1.0
-App für das SharePoint-Web-Toolkit (für SharePoint 2013) -> 3.1.2
-Deutsche Ressourcen für Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
-Deutsche Ressourcen für Microsoft ASP.NET Universal Providers-Kernbibliotheken -> 2.0.0
-Deutsche Ressourcen für Microsoft ASP.NET Identity EntityFramework -> 2.2.1
-Calendar Template -> 1.0.0
-Deutsche Ressourcen für Microsoft ASP.NET Identity Owin -> 2.2.1
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
-App per il toolkit Web di SharePoint (per SharePoint 2013) -> 3.1.2
-Deutsche Ressourcen für Microsoft ASP.NET MVC Facebook -> 5.1.2
-AspNetSprites-WebFormsControl -> 0.4.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Client -> 2.2.0
-Deutsche Ressourcen für Entity Framework -> 6.1.3
-Bakery Template (VB) - Web Pages v2 -> 1.0.0
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
-Deutsche Ressourcen für Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
-Application Insights TraceListener -> 1.2.5
-Deutsche Ressourcen für Microsoft ASP.NET Identity Core -> 2.2.1
-Application Insights NLog Target -> 1.2.5
-Deutsche Ressourcen für Microsoft ASP.NET Razor -> 3.2.3
-Calendar Template (VB) - Web Pages v2 -> 1.0.0
-Deutsche Ressourcen für Microsoft ASP.NET MVC -> 5.2.3
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
-Application Insights Log4Net Appender -> 1.2.5
-Deutsche Ressourcen für Microsoft ASP.NET Friendly URLs -> 1.0.2
-Deutsche Ressourcen für Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
-AspNetSprites-MvcAndRazorHelper -> 0.4.0
-Deutsche Ressourcen für Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Redis -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
-Deutsche Ressourcen für Microsoft ASP.NET Cross-Origin Support -> 5.2.3
-AspNetSprites-Core -> 0.4.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Core -> 2.2.0
-Azure Authentication Library for Windows Store Beta -> 0.6.1
-Azure Authentication Library Beta -> 0.7.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR -> 2.2.0
+ASP.NET SPA MVC 4 (Beta) -> 4.0.20221.15125
 ASP.NET Scaffolding Infrastructure -> 0.1.0-pre
-Active Directory Authentication Library -> 2.19.208020213
-Aplicación para SharePoint Web Toolkit (para SharePoint 2013) -> 3.1.2
-AntiXSS -> 4.3.0
-App for SharePoint Web Toolkit (for SharePoint 2013) -> 3.1.2
-App for SharePoint Web Toolkit (適用於 SharePoint 2013) -> 3.1.2
-Ajax Grid Scaffolder -> 0.1.0
+ASP.NET Universal Providers - Core dll -> 1.1.0
+ASP.NET Universal Providers For LocalDB -> 1.1.0
 ASP.NET Universal Providers For SqlExpress -> 1.2.0
+ASP.NET Web API -> 4.0.20710
+ASP.NET Web API Data WebHost Libraries (Beta) -> 4.0.20221.15125
+ASP.NET Web API Self Host -> 4.0.20710
+ASP.NET Web Forms Scaffold Generator -> 0.1.0-pre
+ASP.NET Web Helpers Library -> 2.1.20710.2
+ASP.NET Web Helpers Library -> 3.2.3
+ASP.NET Web Pages 2 -> 2.0.20710
+ASP.NET Web Pages 2 Core Libraries -> 2.0.20710
 ASP.NET Web Pages 2 Core Libraries (Developer Preview) -> 2.0.10906
 ASP.NET Web Pages 2 Core Razor Libraries -> 2.0.20710
 ASP.NET Web Pages 2 Database Library -> 2.0.30506
 ASP.NET Web Pages 2 Database Library -> 2.0.30506
 ASP.NET Web Pages 2 OAuth and OpenID authentication library (Beta) -> 2.0.0
-ASP.NET Web Pages 2 Core Libraries -> 2.0.20710
-ASP.NET Web Pages 2 -> 2.0.20710
-ASP.NET Web Helpers Library -> 2.1.20710.2
-ASP.NET Web Helpers Library -> 3.2.3
-ASP.NET Web Forms Scaffold Generator -> 0.1.0-pre
-ASP.NET Web API Self Host -> 4.0.20710
-ASP.NET Web API Data WebHost Libraries (Beta) -> 4.0.20221.15125
-ASP.NET Web API -> 4.0.20710
-ASP.NET Universal Providers - Core dll -> 1.1.0
-ASP.NET SPA MVC 4 (Beta) -> 4.0.20221.15125
+Active Directory Authentication Library -> 2.19.208020213
+Ajax Grid Scaffolder -> 0.1.0
+AntiXSS -> 4.3.0
+Aplicación para SharePoint Web Toolkit (para SharePoint 2013) -> 3.1.2
+App for SharePoint Web Toolkit (for SharePoint 2013) -> 3.1.2
+App for SharePoint Web Toolkit (適用於 SharePoint 2013) -> 3.1.2
+App für das SharePoint-Web-Toolkit (für SharePoint 2013) -> 3.1.2
+App per il toolkit Web di SharePoint (per SharePoint 2013) -> 3.1.2
+Application Insights Log4Net Appender -> 1.2.5
+Application Insights NLog Target -> 1.2.5
+Application Insights TraceListener -> 1.2.5
+AspNetSprites-Core -> 0.4.0
+AspNetSprites-MvcAndRazorHelper -> 0.4.0
+AspNetSprites-WebFormsControl -> 0.4.0
+Azure Authentication Library Beta -> 0.7.0
+Azure Authentication Library for Windows Store Beta -> 0.6.1
+Bakery Template (VB) - Web Pages v2 -> 1.0.0
+Calendar Template -> 1.0.0
+Calendar Template (VB) - Web Pages v2 -> 1.0.0
+Deutsche Ressourcen für Entity Framework -> 6.1.3
+Deutsche Ressourcen für Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
+Deutsche Ressourcen für Microsoft ASP.NET Cross-Origin Support -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Friendly URLs -> 1.0.2
+Deutsche Ressourcen für Microsoft ASP.NET Identity Core -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET Identity Owin -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET MVC -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET MVC Facebook -> 5.1.2
+Deutsche Ressourcen für Microsoft ASP.NET Razor -> 3.2.3
+Deutsche Ressourcen für Microsoft ASP.NET SignalR -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Client -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Core -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Redis -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET Universal Providers-Kernbibliotheken -> 2.0.0
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 für OData v1-3 -> 5.7.0
+Deutsche Ressourcen für Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
+Deutsche Ressourcen für Microsoft ASP.NET Web Optimization -> 1.1.3
+Deutsche Ressourcen für Microsoft ASP.NET Web Pages -> 3.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Deutsche Ressourcen für Microsoft ASP.NET Web Pages Data -> 3.2.3
+Deutsche Ressourcen für Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Deutsche Ressourcen für Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+Deutsche Ressourcen für Microsoft Owin -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Diagnostics -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Hosting -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin HttpListener -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Active Directory -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Facebook -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Google -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Jwt -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Microsoft Account -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Twitter -> 3.0.1
+Deutsche Ressourcen für Microsoft Owin Security Windows Azure -> 2.0.0-rc1
+Deutsche Ressourcen für Microsoft Owin Static Files -> 3.0.1
+Deutsche Ressourcen für den Microsoft ASP.NET-Host für OWIN-Webanwendungen -> 3.0.1
+Deutsche Ressourcen für die Microsoft WebPages OAuth-Bibliothek -> 3.2.3
+Dryad and DryadLINQ for YARN -> 0.2.1-beta
+DynamicData.EFCodeFirstProvider -> 0.5.1
+EdmLib -> 6.13.0
+EdmLib for OData V1-3 -> 5.7.0
+Enterprise Library - Common Infrastructure -> 6.0.1304
+Enterprise Library - Data Access Application Block -> 6.0.1304
+Enterprise Library - Data Access Application Block SQL CE Data Provider -> 6.0.1304
+Enterprise Library - Exception Handling Application Block -> 6.0.1304
+Enterprise Library - Exception Handling Application Block Logging Handler -> 6.0.1304
+Enterprise Library - Exception Handling Application Block WCF Provider -> 6.0.1304
+Enterprise Library - Logging Application Block -> 6.0.1304
+Enterprise Library - Logging Application Block Database Provider -> 6.0.1304
+Enterprise Library - Policy Injection Application Block -> 6.0.1304
+Enterprise Library - Transient Fault Handling Application Block -> 6.0.1304
+Enterprise Library - Transient Fault Handling Application Block - Declarative configuration support -> 6.0.1304
+Enterprise Library - Transient Fault Handling Application Block - Windows Azure SQL Database integration -> 6.0.1304.1
+Enterprise Library - Transient Fault Handling Application Block - Windows Azure Storage integration -> 6.0.1304
+Enterprise Library - Validation Application Block -> 6.0.1304
+Enterprise Library - Validation Application Block Integration with ASP.NET WebForms -> 6.0.1304
+Enterprise Library - Validation Application Block Integration with WCF -> 6.0.1304
+Enterprise Library - Validation Application Block Integration with WPF -> 6.0.1304
+Enterprise Library - Validation Application Block Integration with WinForms -> 6.0.1304
+Enterprise Library 3 Data Access Application Block -> 3.1.0
+Enterprise Library 4 Data Access Application Block -> 4.1.0
+Enterprise Library 5.0 - Autoscaling Application Block -> 5.0.1118.2
+Enterprise Library 5.0 - Caching Application Block -> 5.0.505
+Enterprise Library 5.0 - Caching Application Block Cryptography Provider -> 5.0.505
+Enterprise Library 5.0 - Caching Application Block Database Backing Store -> 5.0.505
+Enterprise Library 5.0 - Cryptography Application Block -> 5.0.505
+Enterprise Library 5.0 - Integration Pack for Windows Azure - Source -> 5.1.1212
+Enterprise Library 5.0 - Remote Logging Service -> 5.0.505
+Enterprise Library 5.0 - Security Application Block -> 5.0.505
+Enterprise Library 5.0 - Security Application Block AzMan Authorization Provider -> 5.0.505
+Enterprise Library 5.0 - Security Application Block Caching Store -> 5.0.505
+Enterprise Library 5.0 - Silverlight Integration Pack Source Code -> 5.0.505
+Enterprise Library 5.0 - Source Code -> 5.0.505
+Enterprise Library 5.0 - Transient Fault Handling Application Block -> 5.1.1212
+Enterprise Library 5.0 - Windows Azure Configuration Extensions -> 5.0.1118.2
+Entity Framework 日本語リソース -> 6.1.3
+Entity Framework 繁體中文資源 -> 6.1.3
+Entity Framework 한국어 리소스 -> 6.1.3
+EntityFramework -> 6.1.3
+EntityFramework.AzureTableStorage -> 7.0.0-beta1
+EntityFramework.Commands -> 7.0.0-rc1-final
+EntityFramework.Core -> 7.0.0-rc1-final
+EntityFramework.InMemory -> 7.0.0-rc1-final
+EntityFramework.Migrations -> 7.0.0-beta2
+EntityFramework.Relational -> 7.0.0-rc1-final
+EntityFramework.Relational.Design -> 7.0.0-rc1-final
+EntityFramework.SQLite -> 7.0.0-rc1-final
+EntityFramework.SqlServer -> 7.0.0-beta8
+EntityFramework.SqlServer.Design -> 7.0.0-beta8
+EntityFramework.SqlServerCompact -> 6.1.3
+Facebook.Helper -> 1.0.0
+Host Microsoft ASP.NET per applicazioni Web di OWIN - Risorse per l'italiano -> 3.0.1
+Host platformy Microsoft ASP.NET dla aplikacji sieci Web środowiska OWIN — zasoby dla języka polskiego -> 3.0.1
+Interactive Extensions for JavaScript - All -> 1.0.6
+Interactive Extensions for JavaScript - LINQ to Objects -> 1.0.6
+Interactive Extensions for JavaScript - Main -> 1.0.6
+Ix-Async -> 1.2.5
+Ix-Main -> 1.2.5
+JSON Web Token Handler For the Microsoft .Net Framework 4.5 -> 4.0.2.206221351
+KRE-CLR-amd64 -> 1.0.0-beta2
+KRE-CLR-x86 -> 1.0.0-beta2
+KRE-CoreCLR-amd64 -> 1.0.0-beta2
+KRE-CoreCLR-x86 -> 1.0.0-beta2
+KRE-Mono -> 1.0.0-beta3
+Kestrel -> 1.0.0-beta6
+Kit de ressources web des applications pour SharePoint (pour SharePoint 2013) -> 3.1.2
+Knihovny Microsoft ASP.NET SignalR SQL Server Libraries – české prostředky -> 2.2.0
+Knihovny Microsoft ASP.NET SignalR ServiceBus Libraries – české prostředky -> 2.2.0
+Libreria Microsoft WebPages OAuth - Risorse per l'italiano -> 3.2.3
+Lightweight process manager for YARN -> 0.7.5-beta
+Localize -> 1.1.0
+Microsoft .NET Framework 4 HTTP Client Libraries - Risorse per l'italiano -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries - české prostředky -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries Türkçe Kaynakları -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries — zasoby dla języka polskiego -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries 日本語 リソース -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries 简体中文 资源 -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries 繁體中文 資源 -> 2.0.20710
+Microsoft .NET Framework 4 HTTP Client Libraries 한국어 리소스 -> 2.0.20710
+Microsoft ASP.NET Cross-Origin Support -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support dla języka polskiego z różnych źródeł -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support の日本語リソース -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support 繁體中文資源 -> 5.2.3
+Microsoft ASP.NET Cross-Origin Support 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Custom WebHooks Azure Storage Module -> 1.2.0-beta4
+Microsoft ASP.NET Custom WebHooks MVC Module -> 1.2.0-beta4
+Microsoft ASP.NET Custom WebHooks Module -> 1.2.0-beta4
+Microsoft ASP.NET Friendly URLs - Risorse per l'italiano -> 1.0.2
+Microsoft ASP.NET Friendly URLs Türkçe Kaynakları -> 1.0.2
+Microsoft ASP.NET Friendly URLs – české prostředky -> 1.0.2
+Microsoft ASP.NET Friendly URLs — zasoby dla języka polskiego -> 1.0.2
+Microsoft ASP.NET Friendly URLs 日本語リソース -> 1.0.2
+Microsoft ASP.NET Friendly URLs 简体中文资源 -> 1.0.2
+Microsoft ASP.NET Friendly URLs 繁體中文資源 -> 1.0.2
+Microsoft ASP.NET Friendly URLs 한국어 리소스 -> 1.0.2
+Microsoft ASP.NET Host for OWIN Web Applications 日本語リソース -> 3.0.1
+Microsoft ASP.NET Host for OWIN Web Applications 繁體中文資源 -> 3.0.1
+Microsoft ASP.NET Host pro webové aplikace OWIN - české prostředky -> 3.0.1
+Microsoft ASP.NET Identity Core -> 2.2.1
+Microsoft ASP.NET Identity Core - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET Identity Core - české prostředky -> 2.2.1
+Microsoft ASP.NET Identity Core Türkçe Kaynaklar -> 2.2.1
+Microsoft ASP.NET Identity Core {繁體中文} 資源 -> 2.2.1
+Microsoft ASP.NET Identity Core 日本語リソース -> 2.2.1
+Microsoft ASP.NET Identity Core 简体中文资源 -> 2.2.1
+Microsoft ASP.NET Identity Core 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework - české prostředky -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework Türkçe Kaynaklar -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework {繁體中文} 資源 -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework 日本語リソース -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework 简体中文资源 -> 2.2.1
+Microsoft ASP.NET Identity EntityFramework 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET Identity Owin -> 2.2.1
+Microsoft ASP.NET Identity Owin - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET Identity Owin - české prostředky -> 2.2.1
+Microsoft ASP.NET Identity Owin Türkçe Kaynaklar -> 2.2.1
+Microsoft ASP.NET Identity Owin {繁體中文} 資源 -> 2.2.1
+Microsoft ASP.NET Identity Owin 日本語リソース -> 2.2.1
+Microsoft ASP.NET Identity Owin 简体中文资源 -> 2.2.1
+Microsoft ASP.NET Identity Owin 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET MVC -> 5.2.3
+Microsoft ASP.NET MVC - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET MVC 4 Styled (C#) Scaffolding View Templates -> 5.1.0
+Microsoft ASP.NET MVC 4 Styled (VB) Scaffolding View Templates -> 5.1.0
+Microsoft ASP.NET MVC 4 – české prostředky -> 5.2.3
+Microsoft ASP.NET MVC Diagnostics -> 5.2.3
+Microsoft ASP.NET MVC Facebook -> 5.1.2
+Microsoft ASP.NET MVC Facebook - Risorse per l'italiano -> 5.1.2
+Microsoft ASP.NET MVC Facebook Türkçe Kaynaklar -> 5.1.2
+Microsoft ASP.NET MVC Facebook dla języka polskiego dotyczące usługi -> 5.1.2
+Microsoft ASP.NET MVC Facebook – české prostředky -> 5.1.2
+Microsoft ASP.NET MVC Facebook の日本語リソース -> 5.1.2
+Microsoft ASP.NET MVC Facebook 简体中文资源 -> 5.1.2
+Microsoft ASP.NET MVC Facebook 繁體中文資源 -> 5.1.2
+Microsoft ASP.NET MVC Facebook 한국어 리소스 -> 5.1.2
+Microsoft ASP.NET MVC Fixed DisplayModes (deprecated) -> 5.0.0
+Microsoft ASP.NET MVC Futures -> 5.0.0
+Microsoft ASP.NET MVC Scaffolding Controller Templates (C#) with Attribute Routing -> 5.1.0
+Microsoft ASP.NET MVC Scaffolding Controller Templates (VB) with Attribute Routing -> 5.1.0
+Microsoft ASP.NET MVC Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET MVC — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET MVC 日本語リソース -> 5.2.3
+Microsoft ASP.NET MVC 简体中文资源 -> 5.2.3
+Microsoft ASP.NET MVC 繁體中文資源 -> 5.2.3
+Microsoft ASP.NET MVC 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Razor -> 3.2.3
+Microsoft ASP.NET Razor - Risorse per l'italiano -> 3.2.3
+Microsoft ASP.NET Razor Türkçe Kaynaklar -> 3.2.3
+Microsoft ASP.NET Razor – české prostředky -> 3.2.3
+Microsoft ASP.NET Razor — zasoby dla języka polskiego -> 3.2.3
+Microsoft ASP.NET Razor 日本語リソース -> 3.2.3
+Microsoft ASP.NET Razor 简体中文资源 -> 3.2.3
+Microsoft ASP.NET Razor 繁體中文資源 -> 3.2.3
+Microsoft ASP.NET Razor 한국어 리소스 -> 3.2.3
+Microsoft ASP.NET SignalR -> 2.2.0
+Microsoft ASP.NET SignalR - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR .NET Client -> 2.2.0
+Microsoft ASP.NET SignalR Client - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR Client {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR Client – české prostředky -> 2.2.0
+Microsoft ASP.NET SignalR Client — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR Client 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR Client 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR Client 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR Client 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR Core - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR Core Components -> 2.2.0
+Microsoft ASP.NET SignalR Core {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR Core – české prostředky -> 2.2.0
+Microsoft ASP.NET SignalR Core — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR Core 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR Core 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR Core 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR Core 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR JavaScript Client -> 2.2.0
+Microsoft ASP.NET SignalR OWIN -> 1.2.2
+Microsoft ASP.NET SignalR Redis - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR Redis Messaging Backplane -> 2.2.0
+Microsoft ASP.NET SignalR Redis {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR Redis – české prostředky -> 2.2.0
+Microsoft ASP.NET SignalR Redis — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR Redis 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR Redis 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR Redis 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR Redis 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Libraries 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR SQL Server Messaging Backplane -> 2.2.0
+Microsoft ASP.NET SignalR Self Host -> 2.2.0
+Microsoft ASP.NET SignalR Service Bus Messaging Backplane -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR ServiceBus Libraries 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR System.Web -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb - Risorse per l'italiano -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb {Türkçe} Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb – české prostředky -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR SystemWeb 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR Türkçe Kaynaklar -> 2.2.0
+Microsoft ASP.NET SignalR Utilities -> 2.2.0
+Microsoft ASP.NET SignalR i18n Resources -> 2.2.0
+Microsoft ASP.NET SignalR – české prostředky -> 2.2.0
+Microsoft ASP.NET SignalR — zasoby dla języka polskiego -> 2.2.0
+Microsoft ASP.NET SignalR 日本語リソース -> 2.2.0
+Microsoft ASP.NET SignalR 简体中文资源 -> 2.2.0
+Microsoft ASP.NET SignalR 繁體中文資源 -> 2.2.0
+Microsoft ASP.NET SignalR 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET Universal Providers -> 2.0.0
+Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
+Microsoft ASP.NET Universal Providers Core Libraries - Risorse per l'italiano -> 2.0.0
+Microsoft ASP.NET Universal Providers Core Libraries - české prostředky -> 2.0.0
+Microsoft ASP.NET Universal Providers Core Libraries 日本語 リソース -> 2.0.0
+Microsoft ASP.NET Universal Providers Core Libraries 简体中文资源 -> 2.0.0
+Microsoft ASP.NET Universal Providers Temel Kitaplıkları Türkçe Kaynakları -> 2.0.0
+Microsoft ASP.NET Universal Providers for LocalDB -> 2.0.0
+Microsoft ASP.NET Universal Providers for SQL Compact Edition -> 2.0.0
+Microsoft ASP.NET Universal Providers 核心程式庫繁體中文資源 -> 2.0.0
+Microsoft ASP.NET Universal Providers 핵심 라이브러리 한국어 리소스 -> 2.0.0
+Microsoft ASP.NET Web API 2.1 Scaffolding Controller Templates (C#) with Attribute Routing -> 5.1.0
+Microsoft ASP.NET Web API 2.1 Scaffolding Controller Templates (VB) with Attribute Routing -> 5.1.0
+Microsoft ASP.NET Web API 2.2 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Client Libraries 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Core Libraries 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Cross-Origin Support 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Help Page -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Help Page for VB -> 5.2.3
+Microsoft ASP.NET Web API 2.2 OWIN -> 5.2.3
+Microsoft ASP.NET Web API 2.2 OWIN Self Host -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Owin 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Self Host 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Tracing 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host - Risorse per l'italiano -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host - české prostředky -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host Türkçe Kaynaklar -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host — zasoby dla języka polskiego -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host 日本語リソース -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host 简体中文资源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host 繁體中文 資源 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 Web Host 한국어 리소스 -> 5.2.3
+Microsoft ASP.NET Web API 2.2 for OData v1-3 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v1-3 - české prostředky -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v1-3 — zasoby dla języka polskiego -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v1-3 日本語リソース -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v1-3 简体中文资源 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v1-3 繁體中文資源 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 - Risorse per l'italiano -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 — zasoby dla języka polskiego -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 日本語リソース -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 简体中文资源 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 繁體中文 資源 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 para recursos OData v1-3 en español -> 5.7.0
+Microsoft ASP.NET Web API 2.2 para recursos de Português do Brasil do OData v1-3 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 para recursos de Português do Brasil do OData v4.0 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 per OData v1-3 - Risorse per l'italiano -> 5.7.0
+Microsoft ASP.NET Web API 2.2 pro OData v4.0 - české prostředky -> 5.7.0
+Microsoft ASP.NET Web API SignalR - Risorse per l'italiano -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR Integration -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR Türkçe Kaynaklar -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR – české prostředky -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR — zasoby dla języka polskiego -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR の日本語リソース -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR 简体中文资源 -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR 繁體中文資源 -> 5.0.0-rc1
+Microsoft ASP.NET Web API SignalR 한국어 리소스 -> 5.0.0-rc1
+Microsoft ASP.NET Web Optimization - Risorse per l'italiano -> 1.1.3
+Microsoft ASP.NET Web Optimization - české prostředky -> 1.1.3
+Microsoft ASP.NET Web Optimization Framework -> 1.1.3
+Microsoft ASP.NET Web Optimization Türkçe Kaynakları -> 1.1.3
+Microsoft ASP.NET Web Optimization 日本語 リソース -> 1.1.3
+Microsoft ASP.NET Web Optimization 简体中文资源 -> 1.1.3
+Microsoft ASP.NET Web Optimization 繁體中文 資源 -> 1.1.3
+Microsoft ASP.NET Web Optimization 한국어 리소스 -> 1.1.3
+Microsoft ASP.NET Web Pages -> 3.2.3
+Microsoft ASP.NET Web Pages - Risorse per l'italiano -> 3.2.3
+Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration - Risorse per l'italiano -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration - české prostředky -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration Türkçe Kaynakları -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration 日本語 リソース -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration 简体中文 资源 -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration 繁體中文資源 -> 2.0.30506
+Microsoft ASP.NET Web Pages 2 Administration 한국어 리소스 -> 2.0.30506
+Microsoft ASP.NET Web Pages Data -> 3.2.3
+Microsoft ASP.NET Web Pages Data - Risorse per l'italiano -> 3.2.3
+Microsoft ASP.NET Web Pages Data Türkçe Kaynaklar -> 3.2.3
+Microsoft ASP.NET Web Pages Data – české prostředky -> 3.2.3
+Microsoft ASP.NET Web Pages Data — zasoby dla języka polskiego -> 3.2.3
+Microsoft ASP.NET Web Pages Data 日本語リソース -> 3.2.3
+Microsoft ASP.NET Web Pages Data 简体中文资源 -> 3.2.3
+Microsoft ASP.NET Web Pages Data 繁體中文資源 -> 3.2.3
+Microsoft ASP.NET Web Pages Data 한국어 리소스 -> 3.2.3
+Microsoft ASP.NET Web Pages Türkçe Kaynaklar -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data - Risorse per l'italiano -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data Türkçe Kaynaklar -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data – české prostředky -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data — zasoby dla języka polskiego -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data 日本語リソース -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data 简体中文资源 -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data 繁體中文資源 -> 3.2.3
+Microsoft ASP.NET Web Pages Web Data 한국어 리소스 -> 3.2.3
+Microsoft ASP.NET Web Pages – české prostředky -> 3.2.3
+Microsoft ASP.NET Web Pages — zasoby dla języka polskiego -> 3.2.3
+Microsoft ASP.NET Web Pages 日本語リソース -> 3.2.3
+Microsoft ASP.NET Web Pages 简体中文资源 -> 3.2.3
+Microsoft ASP.NET Web Pages 繁體中文資源 -> 3.2.3
+Microsoft ASP.NET Web Pages 한국어 리소스 -> 3.2.3
+Microsoft ASP.NET WebHooks Common Module -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Azure WebHooks including Kudu (Azure Web App Deployment) and Azure Alerts. -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Bitbucket -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Dropbox -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for GitHub -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Instagram -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for MailChimp -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Paypal -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Pusher -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Slack -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Stripe -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for Trello -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for WordPress -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receiver for your custom WebHooks implementation. -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Receivers -> 1.2.0-beta4
+Microsoft Ajax Minifier -> 5.14.5506.26202
+Microsoft Async -> 1.0.168
+Microsoft Azure Active Directory Graph Client Library -> 2.1.0
+Microsoft Azure Active Directory Graph Client Library for Javascript -> 1.0.19
+Microsoft Azure Configuration Manager -> 3.1.0
+Microsoft Azure Service Bus -> 3.0.9
+Microsoft BCL Build Components -> 1.0.21
+Microsoft BCL Portability Pack -> 1.1.10
+Microsoft Composition (MEF 2) -> 1.0.30
+Microsoft Compression -> 3.9.85
+Microsoft DotNetOpenAuth ASP.NET Membership - Risorse per l'italiano -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership - české prostředky -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership Türkçe Kaynakları -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership 日本語 リソース -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership 简体中文 资源 -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership 繁體中文資源 -> 2.0.1
+Microsoft DotNetOpenAuth ASP.NET Membership 한국어 리소스 -> 2.0.1
+Microsoft DotNetOpenAuth helpers for ASP.NET Membership -> 2.0.1
+Microsoft Dynamics CRM 2015 SDK client and portal assemblies -> 7.1.0.1
+Microsoft Dynamics CRM 2016 SDK Outlook client assembly -> 8.0.0
+Microsoft Dynamics CRM 2016 SDK core assemblies -> 8.0.0
+Microsoft Dynamics CRM 2016 SDK deployment assembly -> 8.0.0
+Microsoft Dynamics CRM 2016 SDK workflow assembly -> 8.0.0
+Microsoft HTTP Client Libraries -> 2.2.29
+Microsoft OCR Library for Windows Runtime -> 1.0.0
+Microsoft Owin - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Diagnostics - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Diagnostics Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Diagnostics – české prostředky -> 3.0.1
+Microsoft Owin Diagnostics — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Diagnostics 日本語リソース -> 3.0.1
+Microsoft Owin Diagnostics 简体中文资源 -> 3.0.1
+Microsoft Owin Diagnostics 繁體中文資源 -> 3.0.1
+Microsoft Owin Diagnostics 한국어 리소스 -> 3.0.1
+Microsoft Owin Hosting - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Hosting Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Hosting – české prostředky -> 3.0.1
+Microsoft Owin Hosting — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Hosting 日本語リソース -> 3.0.1
+Microsoft Owin Hosting 简体中文资源 -> 3.0.1
+Microsoft Owin Hosting 繁體中文資源 -> 3.0.1
+Microsoft Owin Hosting 한국어 리소스 -> 3.0.1
+Microsoft Owin HttpListener - Risorse per l'italiano -> 3.0.1
+Microsoft Owin HttpListener Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin HttpListener – české prostředky -> 3.0.1
+Microsoft Owin HttpListener — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin HttpListener 日本語リソース -> 3.0.1
+Microsoft Owin HttpListener 简体中文资源 -> 3.0.1
+Microsoft Owin HttpListener 繁體中文資源 -> 3.0.1
+Microsoft Owin HttpListener 한국어 리소스 -> 3.0.1
+Microsoft Owin Security - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Active Directory Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Active Directory Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Security Active Directory {繁體中文} 資源 -> 3.0.1
+Microsoft Owin Security Active Directory – české prostředky -> 3.0.1
+Microsoft Owin Security Active Directory — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Active Directory 日本語リソース -> 3.0.1
+Microsoft Owin Security Active Directory 简体中文资源 -> 3.0.1
+Microsoft Owin Security Active Directory 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Facebook - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Facebook Türkçe Kaynakları -> 3.0.1
+Microsoft Owin Security Facebook – české zdroje -> 3.0.1
+Microsoft Owin Security Facebook — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Facebook 日本語リソース -> 3.0.1
+Microsoft Owin Security Facebook 简体中文资源 -> 3.0.1
+Microsoft Owin Security Facebook 繁體中文 資源 -> 3.0.1
+Microsoft Owin Security Facebook 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Google - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Google Türkçe Kaynakları -> 3.0.1
+Microsoft Owin Security Google – české zdroje -> 3.0.1
+Microsoft Owin Security Google — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Google 日本語リソース -> 3.0.1
+Microsoft Owin Security Google 简体中文资源 -> 3.0.1
+Microsoft Owin Security Google 繁體中文 資源 -> 3.0.1
+Microsoft Owin Security Google 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Jwt - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Jwt Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Security Jwt {繁體中文} 資源 -> 3.0.1
+Microsoft Owin Security Jwt – české prostředky -> 3.0.1
+Microsoft Owin Security Jwt — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Jwt 日本語リソース -> 3.0.1
+Microsoft Owin Security Jwt 简体中文资源 -> 3.0.1
+Microsoft Owin Security Jwt 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Microsoft Account - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Microsoft Account Türkçe Kaynakları -> 3.0.1
+Microsoft Owin Security Microsoft Account – české zdroje -> 3.0.1
+Microsoft Owin Security Microsoft Account — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Microsoft Account 日本語リソース -> 3.0.1
+Microsoft Owin Security Microsoft Account 简体中文资源 -> 3.0.1
+Microsoft Owin Security Microsoft Account 繁體中文 資源 -> 3.0.1
+Microsoft Owin Security Microsoft Account 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Twitter - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Security Twitter Türkçe Kaynakları -> 3.0.1
+Microsoft Owin Security Twitter – české zdroje -> 3.0.1
+Microsoft Owin Security Twitter — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security Twitter 日本語リソース -> 3.0.1
+Microsoft Owin Security Twitter 简体中文资源 -> 3.0.1
+Microsoft Owin Security Twitter 繁體中文 資源 -> 3.0.1
+Microsoft Owin Security Twitter 한국어 리소스 -> 3.0.1
+Microsoft Owin Security Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Security Windows Azure - Risorse per l'italiano -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure Türkçe Kaynaklar -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure – české prostředky -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure — zasoby dla języka polskiego -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure 日本語リソース -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure 简体中文资源 -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure 繁體中文 資源 -> 2.0.0-rc1
+Microsoft Owin Security Windows Azure 한국어 리소스 -> 2.0.0-rc1
+Microsoft Owin Security – české prostředky -> 3.0.1
+Microsoft Owin Security — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Security 日本語リソース -> 3.0.1
+Microsoft Owin Security 简体中文资源 -> 3.0.1
+Microsoft Owin Security 繁體中文資源 -> 3.0.1
+Microsoft Owin Security 한국어 리소스 -> 3.0.1
+Microsoft Owin Static Files - Risorse per l'italiano -> 3.0.1
+Microsoft Owin Static Files Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin Static Files – české prostředky -> 3.0.1
+Microsoft Owin Static Files — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin Static Files 日本語リソース -> 3.0.1
+Microsoft Owin Static Files 简体中文资源 -> 3.0.1
+Microsoft Owin Static Files 繁體中文資源 -> 3.0.1
+Microsoft Owin Static Files 한국어 리소스 -> 3.0.1
+Microsoft Owin Türkçe Kaynaklar -> 3.0.1
+Microsoft Owin – české prostředky -> 3.0.1
+Microsoft Owin — zasoby dla języka polskiego -> 3.0.1
+Microsoft Owin 日本語リソース -> 3.0.1
+Microsoft Owin 简体中文资源 -> 3.0.1
+Microsoft Owin 繁體中文 資源 -> 3.0.1
+Microsoft Owin 한국어 리소스 -> 3.0.1
+Microsoft SQL Server Compact Edition -> 4.0.8854.1
+Microsoft SQL Server Compact Edition -> 4.0.8876.1
+Microsoft TPL Dataflow -> 4.5.24
+Microsoft Team Foundation Server Client -> 14.89.0
+Microsoft Team Foundation Server Extended Client -> 14.89.0
+Microsoft Token Validation Extension for Microsoft .Net Framework 4.5 -> 4.5.1
+Microsoft Visual Studio Services Client -> 14.89.0
+Microsoft Visual Studio Services Client (Interactive) -> 14.89.0
+Microsoft WebPages OAuth kitaplığı Türkçe Kaynakları -> 3.2.3
+Microsoft WebPages OAuth library -> 3.2.3
+Microsoft WebPages OAuth library - české prostředky -> 3.2.3
+Microsoft WebPages OAuth library 日本語 リソース -> 3.2.3
+Microsoft WebPages OAuth 库简体中文资源 -> 3.2.3
+Microsoft WebPages OAuth 程式庫 繁體中文 資源 -> 3.2.3
+Microsoft WebPages OAuth 라이브러리 한국어 리소스 -> 3.2.3
+Microsoft Xml Document Transformation -> 2.1.1
+Microsoft jQuery Unobtrusive Ajax -> 3.2.3
+Microsoft jQuery Unobtrusive Validation -> 3.2.3
+Microsoft.AspNet.Diagnostics -> 1.0.0-rc1-final
+Microsoft.AspNet.Diagnostics.Elm -> 1.0.0-rc1-final
+Microsoft.AspNet.Diagnostics.Entity -> 7.0.0-rc1-final
+Microsoft.AspNet.DynamicDataTemplates.CS -> 1.0.0-beta1
+Microsoft.AspNet.FeatureModel -> 1.0.0-beta6
+Microsoft.AspNet.FileProviders -> 1.0.0-beta4
+Microsoft.AspNet.FileProviders.Interfaces -> 1.0.0-beta4
+Microsoft.AspNet.FileSystems -> 1.0.0-beta2
+Microsoft.AspNet.FriendlyUrls -> 1.0.2
+Microsoft.AspNet.FriendlyUrls.Core -> 1.0.2
+Microsoft.AspNet.FriendlyUrls.ViewSwitcher -> 1.0.0-rc1
+Microsoft.AspNet.Hosting -> 1.0.0-rc1-final
+Microsoft.AspNet.Http -> 1.0.0-rc1-final
+Microsoft.AspNet.Http.Core -> 1.0.0-beta4
+Microsoft.AspNet.Http.Extensions -> 1.0.0-rc1-final
+Microsoft.AspNet.Http.Interfaces -> 1.0.0-beta4
+Microsoft.AspNet.HttpFeature -> 1.0.0-beta2
+Microsoft.AspNet.Identity -> 3.0.0-rc1-final
+Microsoft.AspNet.Loader.IIS -> 1.0.0-beta7
+Microsoft.AspNet.Loader.IIS.Interop -> 1.0.0-beta7
+Microsoft.AspNet.Mvc.Core -> 6.0.0-rc1-final
+Microsoft.AspNet.Mvc.HeaderValueAbstractions -> 1.0.0-beta2
+Microsoft.AspNet.Mvc.ModelBinding -> 6.0.0-beta4
+Microsoft.AspNet.Mvc.Razor -> 6.0.0-rc1-final
+Microsoft.AspNet.Mvc.Razor.Host -> 6.0.0-rc1-final
+Microsoft.AspNet.Mvc.TagHelpers -> 6.0.0-rc1-final
+Microsoft.AspNet.Mvc.WebApiCompatShim -> 6.0.0-rc1-final
+Microsoft.AspNet.Owin -> 1.0.0-rc1-final
+Microsoft.AspNet.PipelineCore -> 1.0.0-beta2
+Microsoft.AspNet.Razor.Runtime -> 4.0.0-rc1-final
+Microsoft.AspNet.RequestContainer -> 1.0.0-beta3
+Microsoft.AspNet.Routing -> 1.0.0-rc1-final
+Microsoft.AspNet.ScriptManager.MSAjax -> 5.0.0
+Microsoft.AspNet.ScriptManager.WebForms -> 5.0.0
+Microsoft.AspNet.Security -> 1.0.0-beta3
+Microsoft.AspNet.Security.Cookies -> 1.0.0-beta3
+Microsoft.AspNet.Security.DataProtection -> 1.0.0-beta3
+Microsoft.AspNet.Security.DataProtection.Azure -> 1.0.0-beta3
+Microsoft.AspNet.Security.DataProtection.Compatibility -> 1.0.0-beta3
+Microsoft.AspNet.Security.Facebook -> 1.0.0-beta3
+Microsoft.AspNet.Security.Google -> 1.0.0-beta3
+Microsoft.AspNet.Security.MicrosoftAccount -> 1.0.0-beta3
+Microsoft.AspNet.Security.OAuth -> 1.0.0-beta3
+Microsoft.AspNet.Security.OAuthBearer -> 1.0.0-beta3
+Microsoft.AspNet.Security.OpenIdConnect -> 1.0.0-beta3
+Microsoft.AspNet.Security.Twitter -> 1.0.0-beta3
+Microsoft.AspNet.Server.IIS -> 1.0.0-beta7
+Microsoft.AspNet.Server.Kestrel -> 1.0.0-rc1-final
+Microsoft.AspNet.Server.WebListener -> 1.0.0-rc1-final
+Microsoft.AspNet.Session -> 1.0.0-rc1-final
+Microsoft.AspNet.SignalR.Sample -> 2.2.0
+Microsoft.AspNet.SignalR.Server -> 3.0.0-beta5
+Microsoft.AspNet.StaticFiles -> 1.0.0-rc1-final
+Microsoft.AspNet.TestHost -> 1.0.0-rc1-final
+Microsoft.AspNet.Web.Helpers.Mvc -> 2.0.20710
+Microsoft.AspNet.Web.Optimization.WebForms -> 1.1.3
+Microsoft.AspNet.WebSockets.Client -> 1.0.0-rc1-final
+Microsoft.AspNet.WebSockets.Protocol -> 1.0.0-rc1-final
+Microsoft.AspNet.WebSockets.Server -> 1.0.0-rc1-final
+Microsoft.AspNet.WebUtilities -> 1.0.0-rc1-final
+Microsoft.CSharp -> 4.0.0
+Microsoft.CodeAnalysis -> 1.1.1
+Microsoft.CodeAnalysis.CSharp -> 1.1.1
+Microsoft.CodeAnalysis.CSharp.Workspaces -> 1.1.1
+Microsoft.CodeAnalysis.CodeActions -> 0.7.4091001-beta
+Microsoft.CodeAnalysis.Common -> 1.1.1
+Microsoft.CodeAnalysis.Compilers -> 1.1.1
+Microsoft.CodeAnalysis.Test.Resources.Proprietary -> 1.1.0-beta1-20150824-02
+Microsoft.CodeAnalysis.VisualBasic -> 1.1.1
+Microsoft.CodeAnalysis.VisualBasic.Workspaces -> 1.1.1
+Microsoft.CodeAnalysis.Workspaces.Common -> 1.1.1
+Microsoft.Data.SQLite -> 1.0.0-rc1-final
+Microsoft.DataAnnotations -> 1.0.0-beta1
+Microsoft.Framework.ApplicationHost -> 1.0.0-beta6
+Microsoft.Framework.Cache.Distributed -> 1.0.0-beta3
+Microsoft.Framework.Cache.Memory -> 1.0.0-beta3
+Microsoft.Framework.Cache.Redis -> 1.0.0-beta3
+Microsoft.Framework.CodeGeneration -> 1.0.0-beta5
+Microsoft.Framework.CodeGeneration.Core -> 1.0.0-beta5
+Microsoft.Framework.CodeGeneration.EntityFramework -> 1.0.0-beta5
+Microsoft.Framework.CodeGeneration.Templating -> 1.0.0-beta5
+Microsoft.Framework.CodeGenerators.Mvc -> 1.0.0-beta5
+Microsoft.Framework.CommandLineUtils -> 1.0.0-beta4
+Microsoft.Framework.ConfigurationModel -> 1.0.0-beta4
+Microsoft.Framework.ConfigurationModel.Json -> 1.0.0-beta4
+Microsoft.Framework.ConfigurationModel.Xml -> 1.0.0-beta4
+Microsoft.Framework.DependencyInjection -> 1.0.0-beta8
+Microsoft.Framework.Logging -> 1.0.0-beta8
+Microsoft.Framework.Logging.Console -> 1.0.0-beta8
+Microsoft.Framework.Logging.Interfaces -> 1.0.0-beta4
+Microsoft.Framework.OptionsModel -> 1.0.0-beta8
+Microsoft.Framework.Runtime -> 1.0.0-beta6
+Microsoft.Framework.Runtime.Interfaces -> 1.0.0-beta4
+Microsoft.Framework.Runtime.Loader -> 1.0.0-beta6
+Microsoft.Framework.Runtime.Roslyn -> 1.0.0-beta6
+Microsoft.Framework.Runtime.Roslyn.Common -> 1.0.0-beta6
+Microsoft.Framework.TestAdapter -> 1.0.0-beta6
+Microsoft.Framework.TestHost -> 1.0.0-beta6
+Microsoft.Net.Http.Headers -> 1.0.0-rc1-final
+Microsoft.Net.Http.Server -> 1.0.0-rc1-final
+Microsoft.Net.ToolsetCompilers -> 1.0.0-rc3-20150520-02
+Microsoft.Net.WebSocketAbstractions -> 1.0.0-beta4
+Microsoft.Net.WebSockets -> 1.0.0-rc1-final
+Microsoft.Owin -> 3.0.1
+Microsoft.Owin.Cors -> 3.0.1
+Microsoft.Owin.Diagnostics -> 3.0.1
+Microsoft.Owin.FileSystems -> 3.0.1
+Microsoft.Owin.Host.HttpListener -> 3.0.1
+Microsoft.Owin.Host.SystemWeb -> 3.0.1
+Microsoft.Owin.Hosting -> 3.0.1
+Microsoft.Owin.Security -> 3.0.1
+Microsoft.Owin.Security.ActiveDirectory -> 3.0.1
+Microsoft.Owin.Security.Cookies -> 3.0.1
+Microsoft.Owin.Security.Facebook -> 3.0.1
+Microsoft.Owin.Security.Google -> 3.0.1
+Microsoft.Owin.Security.Jwt -> 3.0.1
+Microsoft.Owin.Security.MicrosoftAccount -> 3.0.1
+Microsoft.Owin.Security.OAuth -> 3.0.1
+Microsoft.Owin.Security.OpenIdConnect -> 3.0.1
+Microsoft.Owin.Security.Twitter -> 3.0.1
+Microsoft.Owin.Security.WindowsAzure -> 2.0.0-rc1
+Microsoft.Owin.Security.WsFederation -> 3.0.1
+Microsoft.Owin.SelfHost -> 3.0.1
+Microsoft.Owin.StaticFiles -> 3.0.1
+Microsoft.Owin.Testing -> 3.0.1
+Microsoft.ScriptManager.MSAjax -> 1.0.1
+Microsoft.ScriptManager.WebForms -> 1.0.1
+Microsoft.ScriptManager.jQuery -> 1.7.2.1
+Microsoft.ScriptManager.jQuery.UI.Combined -> 1.8.20.1
+Microsoft.SharePoint.Emulators -> 1.0.0
+Microsoft.Spatial -> 6.13.0
+Microsoft.VisualStudio.LanguageServices -> 1.1.1
+Microsoft.VisualStudio.Web.BrowserLink.Loader -> 14.0.0-rc1-final
+Microsoft.Web.Infrastructure -> 1.0.0
+Microsoft.Web.SessionState.SqlInMemory -> 1.0.2
+Microsoft.Win32.Primitives -> 4.0.0
+Microsoft.Win32.Registry -> 4.0.0-beta-23516
+MicrosoftAjax -> 4.0.20526
+MicrosoftMvcAjax.Mvc5 -> 5.0.0
+MicrosoftWebMvc -> 2.0.0
+Mvc2Futures -> 2.0.50217
+Mvc3Futures -> 3.0.20105
+Mvc4Futures -> 4.0.20710
+NuGet.Bootstrapper -> 2.6.0
+NuGet.Build -> 2.8.6
+NuGet.CommandLine -> 3.3.0
+NuGet.Core -> 2.10.1
+NuGet.Server -> 2.8.6
+NuGet.VisualStudio -> 2.8.6
+OData Client T4 -> 1.0.0-rc1
+OData Client for .NET -> 6.13.0
+OData Client for Windows Phone Apps -> 5.0.0
+OData v1-3 Türkçe Kaynaklar için Microsoft ASP.NET Web API 2.2 -> 5.7.0
+OData v1-3용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
+OData v4.0 için Microsoft ASP.NET Web API 2.2 için Türkçe Kaynakları -> 5.7.0
+OData v4.0용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
+ODataLib -> 6.13.0
+ODataLib Contrib -> 5.1.0.51119
+ODataLib for OData V1-3 -> 5.7.0
+ODataLib for WIndows Phone -> 5.0.0
+OWIN Web Uygulamaları Türkçe Kaynakları için Microsoft ASP.NET Ana Bilgisayarı -> 3.0.1
+OWIN 웹 응용 프로그램용 Microsoft ASP.NET 호스트 한국어 리소스 -> 3.0.1
+Office JavaScript API -> 1.1.0.9
+Office Web Widgets - Experimental -> 0.1.0
+OwinHost -> 3.0.1
+PayPal.Helper -> 1.0.1
+Photo Gallery Template (VB) - Razor v2 -> 1.0.0
+Podpora Microsoft ASP.NET Cross-Origin Support – české prostředky -> 5.2.3
+Polski - zasoby pakietu Microsoft ASP.NET Identity Core -> 2.2.1
+Polski - zasoby pakietu Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Polski - zasoby pakietu Microsoft ASP.NET Identity Owin -> 2.2.1
+RIA Services SOAP and JSON Endpoints -> 4.2.0
+RIA Services Silverlight Client -> 4.2.0
+RIA Services Silverlight DomainDataSource -> 4.2.0
+RIA Services Web Forms Controls -> 4.2.0
+RIA Services for Azure Table Storage -> 4.2.0
+RIA Services for EntityFramework 4.0 (ObjectContext) -> 4.2.0
+RIA Services for EntityFramework Code-First (DbContext) -> 4.2.0
+RIA Services for Linq to Sql (DataContext) -> 4.2.0
+RIAServices.Server -> 4.2.0
+RIAServices.T4 -> 4.2.0
+RIAServices.UnitTesting -> 4.2.0
+RIAServices.ViewModel -> 4.1.60730.1
+RIAServices.jQuery -> 4.1.60914.2
+Reactive Extensions - .NET Remoting Support -> 2.2.5
+Reactive Extensions - Core Library -> 2.2.5
+Reactive Extensions - Experimental Library -> 2.2.5
+Reactive Extensions - Interfaces Library -> 2.2.5
+Reactive Extensions - Main Library -> 2.2.5
+Reactive Extensions - Platform Services Library -> 2.2.5
+Reactive Extensions - Providers Library -> 2.2.5
+Reactive Extensions - Query Library -> 2.2.5
+Reactive Extensions - Silverlight Helpers -> 2.2.5
+Reactive Extensions - Testing Library -> 2.2.5
+Reactive Extensions - WPF Helpers -> 2.2.5
+Reactive Extensions - Windows Forms Helpers -> 2.2.5
+Reactive Extensions - Windows Runtime Helpers -> 2.2.5
+Reactive Extensions - Windows Store Apps Support Library -> 2.2.5
+Reactive Extensions - XAML Support Library -> 2.2.5
+Reactive Extensions for JavaScript - Aggregation Operations -> 4.0.7
+Reactive Extensions for JavaScript - All Libraries -> 4.0.7
+Reactive Extensions for JavaScript - Async-Based Operations -> 4.0.7
+Reactive Extensions for JavaScript - Binding -> 4.0.7
+Reactive Extensions for JavaScript - Bridges to WinJS -> 1.0.1
+Reactive Extensions for JavaScript - Bridges to jQuery -> 1.1.6
+Reactive Extensions for JavaScript - Bridges to the HTML DOM -> 6.0.0
+Reactive Extensions for JavaScript - Coincidence -> 4.0.7
+Reactive Extensions for JavaScript - Experimental -> 4.0.7
+Reactive Extensions for JavaScript - Join Patterns -> 4.0.7
+Reactive Extensions for JavaScript - Lite Library -> 4.0.7
+Reactive Extensions for JavaScript - Main Library -> 4.0.7
+Reactive Extensions for JavaScript - Test Library -> 4.0.7
+Reactive Extensions for JavaScript - Time-Based Operations -> 4.0.7
+Reactive Extensions for JavaScript - Virtual Time-Based Schedulers -> 4.0.7
+Recursos Português-BR da Biblioteca do Microsoft WebPages OAuth -> 3.2.3
+Recursos Português-BR de Bibliotecas Principais dos Microsoft ASP.NET Universal Providers -> 2.0.0
+Recursos Português-BR de Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Recursos Português-BR de Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+Recursos Português-BR do Microsoft ASP.NET Web Optimization -> 1.1.3
+Recursos de Português do Brasil do Microsoft ASP.NET Cross-Origin Support -> 5.2.3
+Recursos de Português do Brasil do Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
+Recursos de Português-BR do Microsoft ASP.NET SignalR -> 2.2.0
+Recursos de español de Microsoft ASP.NET Identity Core -> 2.2.1
+Recursos de español de Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Recursos de español de Microsoft ASP.NET Identity Owin -> 2.2.1
+Recursos de español de Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Recursos de español de Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Recursos de español de Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Recursos de español de Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
+Recursos de español de Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Recursos de español de Microsoft Owin -> 3.0.1
+Recursos de español de Microsoft Owin Security Windows Azure -> 2.0.0-rc1
+Recursos de español de host web de Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Recursos de español de seguimiento de Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Recursos de español para Entity Framework -> 6.1.3
+Recursos do Microsoft ASP.NET Identity Core em português do Brasil -> 2.2.1
+Recursos do Microsoft Owin pt-br -> 3.0.1
+Recursos do Português Brasileiro do Microsoft ASP.NET Friendly URLs -> 1.0.2
+Recursos do Português do Brasil do Microsoft ASP.NET MVC Facebook -> 5.1.2
+Recursos em Português do Brasil Microsoft Owin Security Jwt -> 3.0.1
+Recursos em Português do Brasil Microsoft Owin Security Jwt -> 3.0.1
+Recursos em Português-BR Microsoft ASP.NET Razor -> 3.2.3
+Recursos em Português-BR Microsoft ASP.NET Web Pages -> 3.2.3
+Recursos em Português-BR Microsoft ASP.NET Web Pages Data -> 3.2.3
+Recursos em Português-BR Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Recursos em Português-BR de Microsoft ASP.NET MVC -> 5.2.3
+Recursos em Português-BR do Microsoft ASP.NET SignalR Client -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR Core -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR Redis -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Recursos em português do Brasil do Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Recursos em português do Brasil do Microsoft ASP.NET Identity Owin -> 2.2.1
+Recursos em português do Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
+Recursos em português do Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Recursos em português do Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Recursos en español de Microsoft ASP.NET Web API 2.2 para OData v4.0 -> 5.7.0
+Recursos en español de Microsoft Owin Diagnostics -> 3.0.1
+Recursos en español de Microsoft Owin Hosting -> 3.0.1
+Recursos en español de Microsoft Owin HttpListener -> 3.0.1
+Recursos en español de Microsoft Owin Security -> 3.0.1
+Recursos en español de Microsoft Owin Security Active Directory -> 3.0.1
+Recursos en español de Microsoft Owin Security Facebook -> 3.0.1
+Recursos en español de Microsoft Owin Static Files -> 3.0.1
+Recursos en español de host de Microsoft ASP.NET para aplicaciones web OWIN -> 3.0.1
+Recursos en español para Microsoft ASP.NET Cross-Origin Support -> 5.2.3
+Recursos en español para Microsoft ASP.NET Friendly URLs -> 1.0.2
+Recursos en español para Microsoft ASP.NET MVC -> 5.2.3
+Recursos en español para Microsoft ASP.NET MVC Facebook -> 5.1.2
+Recursos en español para Microsoft ASP.NET Razor -> 3.2.3
+Recursos en español para Microsoft ASP.NET SignalR -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR Client -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR Core -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR Redis -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Recursos en español para Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
+Recursos en español para Microsoft ASP.NET Web Optimization -> 1.1.3
+Recursos en español para Microsoft ASP.NET Web Pages -> 3.2.3
+Recursos en español para Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Recursos en español para Microsoft ASP.NET Web Pages Data -> 3.2.3
+Recursos en español para Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Recursos en español para Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+Recursos en español para Microsoft Owin Security Google -> 3.0.1
+Recursos en español para Microsoft Owin Security Jwt -> 3.0.1
+Recursos en español para Microsoft Owin Security Microsoft Account -> 3.0.1
+Recursos en español para Microsoft Owin Security Twitter -> 3.0.1
+Recursos en español para la biblioteca de Microsoft WebPages OAuth -> 3.2.3
+Recursos en español para las Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
+Recursos en español para las bibliotecas principales de Microsoft ASP.NET Universal Providers -> 2.0.0
+Recursos pt-br do Host do Microsoft ASP.NET para Aplicativos Web OWIN -> 3.0.1
+Recursos pt-br do Microsoft Owin Diagnostics -> 3.0.1
+Recursos pt-br do Microsoft Owin Hosting -> 3.0.1
+Recursos pt-br do Microsoft Owin HttpListener -> 3.0.1
+Recursos pt-br do Microsoft Owin Security -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Active Directory -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Facebook -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Google -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Microsoft Account -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Twitter -> 3.0.1
+Recursos pt-br do Microsoft Owin Security Windows Azure -> 2.0.0-rc1
+Recursos pt-br do Microsoft Owin Static Files -> 3.0.1
+Ressources Français Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
+Ressources Microsoft ASP.NET Cross-Origin Support en français -> 5.2.3
+Ressources du français pour Entity Framework -> 6.1.3
+Ressources en Français pour Microsoft Owin Security Active Directory -> 3.0.1
+Ressources en français Microsoft ASP.NET Friendly URLs -> 1.0.2
+Ressources en français Microsoft ASP.NET Web API 2.2 pour OData v1-3 -> 5.7.0
+Ressources en français de l’hôte Microsoft ASP.NET pour les applications Web OWIN -> 3.0.1
+Ressources en français pour Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Ressources en français pour Microsoft ASP.NET Identity Owin -> 2.2.1
+Ressources en français pour Microsoft ASP.NET MVC -> 5.2.3
+Ressources en français pour Microsoft ASP.NET MVC Facebook -> 5.1.2
+Ressources en français pour Microsoft ASP.NET Razor -> 3.2.3
+Ressources en français pour Microsoft ASP.NET SignalR -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR Client -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR Core -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR Redis -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Ressources en français pour Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
+Ressources en français pour Microsoft ASP.NET Web Optimization -> 1.1.3
+Ressources en français pour Microsoft ASP.NET Web Pages -> 3.2.3
+Ressources en français pour Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Ressources en français pour Microsoft ASP.NET Web Pages Data -> 3.2.3
+Ressources en français pour Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Ressources en français pour Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+Ressources en français pour Microsoft Owin -> 3.0.1
+Ressources en français pour Microsoft Owin Diagnostics -> 3.0.1
+Ressources en français pour Microsoft Owin Hosting -> 3.0.1
+Ressources en français pour Microsoft Owin HttpListener -> 3.0.1
+Ressources en français pour Microsoft Owin Security -> 3.0.1
+Ressources en français pour Microsoft Owin Security Facebook -> 3.0.1
+Ressources en français pour Microsoft Owin Security Google -> 3.0.1
+Ressources en français pour Microsoft Owin Security Microsoft Account -> 3.0.1
+Ressources en français pour Microsoft Owin Security Twitter -> 3.0.1
+Ressources en français pour Microsoft Owin Security Windows Azure -> 2.0.0-rc1
+Ressources en français pour Microsoft Owin Static Files -> 3.0.1
+Ressources en français pour la bibliothèque Microsoft WebPages OAuth -> 3.2.3
+Ressources en français pour les bibliothèques principales de Microsoft ASP.NET Universal Providers -> 2.0.0
+Ressources en français sur Microsoft ASP.NET Identity Core -> 2.2.1
+Risorse in lingua italiana per Entity Framework -> 6.1.3
+Rx_Experimental-Xaml -> 1.1.11111
+Sample DryadLINQ Programs -> 0.2.1-beta
+Semantic Logging Application Block -> 2.0.1406.1
+Semantic Logging Application Block - Azure Sink -> 2.0.1406.1
+Semantic Logging Application Block - Out-of-process Service -> 2.0.1406.1
+Semantic Logging Application Block - SQL Server Sink -> 2.0.1406.1
+SharePoint Web Toolkit 的应用程序(适用于 SharePoint 2013) -> 3.1.2
+SharePoint Web ツールキット用アプリ (SharePoint 2013 用) -> 3.1.2
+SharePoint 웹 도구 키트용 앱(SharePoint 2013용) -> 3.1.1
+Starter Site Template (VB) - Web Pages v2 -> 1.0.0
+System.AppContext -> 4.0.0
+System.Collections -> 4.0.10
+System.Collections.Concurrent -> 4.0.10
+System.Collections.Immutable -> 1.1.37
+System.Collections.NonGeneric -> 4.0.0
+System.Collections.Specialized -> 4.0.0
+System.ComponentModel -> 4.0.0
+System.ComponentModel.Annotations -> 4.0.10
+System.ComponentModel.EventBasedAsync -> 4.0.10
+System.ComponentModel.Primitives -> 4.0.0
+System.ComponentModel.TypeConverter -> 4.0.0
+System.Console -> 4.0.0-beta-23516
+System.Data.Common -> 4.0.0
+System.Data.SqlClient -> 4.0.0-beta-23516
+System.Diagnostics.Contracts -> 4.0.0
+System.Diagnostics.Debug -> 4.0.10
+System.Diagnostics.FileVersionInfo -> 4.0.0-beta-23516
+System.Diagnostics.Process -> 4.1.0-beta-23516
+System.Diagnostics.TextWriterTraceListener -> 4.0.0-beta-23516
+System.Diagnostics.Tools -> 4.0.0
+System.Diagnostics.TraceSource -> 4.0.0-beta-23516
+System.Diagnostics.Tracing -> 4.0.20
+System.Dynamic.Runtime -> 4.0.10
+System.Globalization -> 4.0.10
+System.Globalization.Calendars -> 4.0.0
+System.Globalization.Extensions -> 4.0.0
+System.IO -> 4.0.10
+System.IO.Compression -> 4.0.0
+System.IO.Compression.ZipFile -> 4.0.0
+System.IO.FileSystem -> 4.0.0
+System.IO.FileSystem.DriveInfo -> 4.0.0-beta-23516
+System.IO.FileSystem.Primitives -> 4.0.0
+System.IO.FileSystem.Watcher -> 4.0.0-beta-23516
+System.IO.MemoryMappedFiles -> 4.0.0-beta-23516
+System.IO.Pipes -> 4.0.0-beta-23516
+System.IO.UnmanagedMemoryStream -> 4.0.0
+System.Linq -> 4.0.0
+System.Linq.Expressions -> 4.0.10
+System.Linq.Parallel -> 4.0.0
+System.Linq.Queryable -> 4.0.0
+System.Net.Http -> 4.0.0
+System.Net.Http.WinHttpHandler -> 4.0.0-beta-23516
+System.Net.NameResolution -> 4.0.0-beta-23516
+System.Net.NetworkInformation -> 4.0.0
+System.Net.Primitives -> 4.0.10
+System.Net.Sockets -> 4.0.0
+System.Net.Utilities -> 4.0.0-beta-23516
+System.Net.WebSockets -> 4.0.0-beta-23516
+System.ObjectModel -> 4.0.10
+System.Reflection -> 4.0.10
+System.Reflection.Emit -> 4.0.0
+System.Reflection.Emit.ILGeneration -> 4.0.0
+System.Reflection.Emit.Lightweight -> 4.0.0
+System.Reflection.Extensions -> 4.0.0
+System.Reflection.Metadata -> 1.1.0
+System.Reflection.Primitives -> 4.0.0
+System.Reflection.TypeExtensions -> 4.0.0
+System.Resources.ResourceManager -> 4.0.0
+System.Resources.ResourceWriter -> 4.0.0-beta-22816
+System.Runtime -> 4.0.20
+System.Runtime.CompilerServices.VisualC -> 4.0.0-beta-23516
+System.Runtime.Extensions -> 4.0.10
+System.Runtime.Handles -> 4.0.0
+System.Runtime.InteropServices -> 4.0.20
+System.Runtime.Loader -> 4.0.0-beta-23516
+System.Runtime.Numerics -> 4.0.0
+System.Runtime.Serialization.Json -> 4.0.0
+System.Runtime.Serialization.Primitives -> 4.0.10
+System.Runtime.Serialization.Xml -> 4.0.10
+System.Security.Claims -> 4.0.0
+System.Security.Cryptography.DeriveBytes -> 4.0.0-beta-23225
+System.Security.Cryptography.Encoding -> 4.0.0-beta-23516
+System.Security.Cryptography.Encryption -> 4.0.0-beta-23225
+System.Security.Cryptography.Encryption.Aes -> 4.0.0-beta-23225
+System.Security.Cryptography.Encryption.RSA -> 4.0.0-beta-22231
+System.Security.Cryptography.Hashing -> 4.0.0-beta-23225
+System.Security.Cryptography.Hashing.Algorithms -> 4.0.0-beta-23225
+System.Security.Cryptography.RandomNumberGenerator -> 4.0.0-beta-23225
+System.Security.Cryptography.X509Certificates -> 4.0.0-beta-23516
+System.Security.Principal -> 4.0.0
+System.Security.SecureString -> 4.0.0-beta-23409
+System.ServiceModel.Http -> 4.0.10
+System.ServiceModel.Primitives -> 4.0.0
+System.Spatial for OData V1-3 -> 5.7.0
+System.Text.Encoding -> 4.0.10
+System.Text.Encoding.CodePages -> 4.0.0
+System.Text.Encoding.Extensions -> 4.0.10
+System.Text.RegularExpressions -> 4.0.10
+System.Threading -> 4.0.10
+System.Threading.ExecutionContext -> 4.0.0-beta-22416
+System.Threading.Overlapped -> 4.0.0
+System.Threading.Tasks -> 4.0.10
+System.Threading.Tasks.Parallel -> 4.0.0
+System.Threading.Thread -> 4.0.0-beta-23516
+System.Threading.ThreadPool -> 4.0.10-beta-23516
+System.Threading.Timer -> 4.0.0
+System.Web.Http.Common (Beta) -> 4.0.20126.16343
+System.Web.Providers.SqlCE -> 1.1.0
+System.Xml.ReaderWriter -> 4.0.10
+System.Xml.XDocument -> 4.0.10
+System.Xml.XPath -> 4.0.0
+System.Xml.XPath.XDocument -> 4.0.0
+System.Xml.XPath.XmlDocument -> 4.0.0
+System.Xml.XmlDocument -> 4.0.0
+System.Xml.XmlSerializer -> 4.0.10
+Transient Fault Handling Core -> 5.1.1209.1
+TranslatorWidget -> 1.0.4
+Twitter.Helper -> 1.0.0
+Upshot -> 1.0.0.2
+WCF Data Services Client for OData V1-3 -> 5.7.0
+WCF Data Services EntityFramework Provider -> 1.0.0-beta2
+WCF Data Services Server for OData V1-3 -> 5.7.0
+WebGrease -> 1.6.0
+Windows Azure Cache -> 2.8.0
+Windows Azure Cache Memcache Shim -> 2.8.0
+Windows Azure Media Services .NET SDK -> 3.5.2
+Windows Azure Mobile Services -> 1.3.2
+Windows Azure Mobile Services for WinJS -> 1.2.5
+Windows Azure Shared Caching -> 1.7.0
+Windows Azure Storage -> 6.2.0
+Windows Identity Foundation -> 6.1.7600.16394
+Windows Runtime API for MIDI Preview -> 1.0.0
+Wishlist Template -> 1.0.0
+Zasoby dla języka polskiego dotyczące biblioteki Microsoft WebPages OAuth -> 3.2.3
+Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
+Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Optimization -> 1.1.3
+Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Zasoby dla języka polskiego dotyczące produktu Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+deprecated Win2D -> 1.0.0
+jQuery Data Link (Beta 1) -> 0.1.0
+jQuery Templates (Beta 1) -> 0.1.0
+jQuery Unobtrusive Ajax -> 2.0.20710
+jQuery Unobtrusive Validation -> 2.0.20710
+jQuery.Mobile.MVC -> 1.0.0
+kre-clr-win-x64 -> 1.0.0-beta3
+kre-clr-win-x86 -> 1.0.0-beta3
+kre-coreclr-win-x64 -> 1.0.0-beta3
+kre-coreclr-win-x86 -> 1.0.0-beta3
+Приложение для пакета веб-средств SharePoint (для SharePoint 2013) -> 3.1.1
+Ресурсы Microsoft Owin Security Jwt — {Language} -> 3.0.1
+Русские ресурсы Microsoft ASP.NET Cross-Origin Support -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Friendly URLs -> 1.0.2
+Русские ресурсы Microsoft ASP.NET Host for OWIN Web Applications -> 3.0.1
+Русские ресурсы Microsoft ASP.NET Identity Core -> 2.2.1
+Русские ресурсы Microsoft ASP.NET Identity EntityFramework -> 2.2.1
+Русские ресурсы Microsoft ASP.NET Identity Owin -> 2.2.1
+Русские ресурсы Microsoft ASP.NET MVC -> 5.2.3
+Русские ресурсы Microsoft ASP.NET MVC Facebook -> 5.1.2
+Русские ресурсы Microsoft ASP.NET Razor -> 3.2.3
+Русские ресурсы Microsoft ASP.NET SignalR -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR Client -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR Core -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR Redis -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Owin -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Self Host -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Tracing -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 Web Host -> 5.2.3
+Русские ресурсы Microsoft ASP.NET Web API 2.2 for OData v1-3 -> 5.7.0
+Русские ресурсы Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 5.7.0
+Русские ресурсы Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
+Русские ресурсы Microsoft ASP.NET Web Optimization -> 1.1.3
+Русские ресурсы Microsoft ASP.NET Web Pages -> 3.2.3
+Русские ресурсы Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
+Русские ресурсы Microsoft ASP.NET Web Pages Data -> 3.2.3
+Русские ресурсы Microsoft ASP.NET Web Pages Web Data -> 3.2.3
+Русские ресурсы Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
+Русские ресурсы Microsoft Owin -> 3.0.1
+Русские ресурсы Microsoft Owin Diagnostics -> 3.0.1
+Русские ресурсы Microsoft Owin Hosting -> 3.0.1
+Русские ресурсы Microsoft Owin HttpListener -> 3.0.1
+Русские ресурсы Microsoft Owin Security -> 3.0.1
+Русские ресурсы Microsoft Owin Security Active Directory -> 3.0.1
+Русские ресурсы Microsoft Owin Security Facebook -> 3.0.1
+Русские ресурсы Microsoft Owin Security Google -> 3.0.1
+Русские ресурсы Microsoft Owin Security Microsoft Account -> 3.0.1
+Русские ресурсы Microsoft Owin Security Twitter -> 3.0.1
+Русские ресурсы Microsoft Owin Security Windows Azure -> 2.0.0-rc1
+Русские ресурсы Microsoft Owin Static Files -> 3.0.1
+Русские ресурсы базовых библиотек Microsoft ASP.NET Universal Providers -> 2.0.0
+Русские ресурсы библиотеки Microsoft WebPages OAuth -> 3.2.3
+Русские ресурсы по Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
+Русскоязычные ресурсы по Entity Framework -> 6.1.3
+实体框架简体中文资源 -> 6.1.3
+适用于 OWIN Web 应用程序的 Microsoft ASP.NET 主机的简体中文资源 -> 3.0.1

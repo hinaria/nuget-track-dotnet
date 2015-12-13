@@ -1,6 +1,13 @@
 // https://www.nuget.org/profiles/microsoft?showAllPackages=True
 // https://www.nuget.org/profiles/dotnetframework?showAllPackages=True
 
+var compare = function(a, b) {
+    // ordinal string comparison
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+    return 0;
+};
+
 var packages = $("ul#searchResults .package h1").toArray().map(function(package) {
     var e = $(package);
     var name = e.find("a").text();
@@ -15,10 +22,10 @@ var packages = $("ul#searchResults .package h1").toArray().map(function(package)
         name: name,
         version: match[1].trim()
     };
-}).filter(x => x);
+}).filter(x => x).sort(compare);
 
-packages.sort((x, y) => x.name < y.name);
-
-packages.reduce(function(data, package) {
-    return data + "\n" + package.name + " -> " + package.version;
+var content = packages.reduce(function(data, package) {
+    return data + package.name + " -> " + package.version + "\n";
 }, "");
+
+copy(content);
