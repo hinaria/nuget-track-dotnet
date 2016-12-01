@@ -7,8 +7,8 @@ ASP.NET Web API -> 4.0.20710
 ASP.NET Web API Data WebHost Libraries (Beta) -> 4.0.20221.15125
 ASP.NET Web API Self Host -> 4.0.20710
 ASP.NET Web Forms Scaffold Generator -> 0.1.0-pre
-ASP.NET Web Helpers Library -> 2.1.20710.2
 ASP.NET Web Helpers Library -> 3.2.3
+ASP.NET Web Helpers Library -> 2.1.20710.2
 ASP.NET Web Pages 2 -> 2.0.20710
 ASP.NET Web Pages 2 Core Libraries -> 2.0.20710
 ASP.NET Web Pages 2 Core Libraries (Developer Preview) -> 2.0.10906
@@ -16,17 +16,13 @@ ASP.NET Web Pages 2 Core Razor Libraries -> 2.0.20710
 ASP.NET Web Pages 2 Database Library -> 2.0.30506
 ASP.NET Web Pages 2 Database Library -> 2.0.30506
 ASP.NET Web Pages 2 OAuth and OpenID authentication library (Beta) -> 2.0.0
-Active Directory Authentication Library -> 2.19.208020213
+Active Directory Authentication Library -> 3.13.7
+Add-In für das SharePoint Web Toolkit (für SharePoint Online) -> 3.1.5
 Ajax Grid Scaffolder -> 0.1.0
 AntiXSS -> 4.3.0
-Aplicación para SharePoint Web Toolkit (para SharePoint 2013) -> 3.1.2
-App for SharePoint Web Toolkit (for SharePoint 2013) -> 3.1.2
-App for SharePoint Web Toolkit (適用於 SharePoint 2013) -> 3.1.2
-App für das SharePoint-Web-Toolkit (für SharePoint 2013) -> 3.1.2
-App per il toolkit Web di SharePoint (per SharePoint 2013) -> 3.1.2
-Application Insights Log4Net Appender -> 1.2.5
-Application Insights NLog Target -> 1.2.5
-Application Insights TraceListener -> 1.2.5
+Application Insights Log4Net Appender -> 2.1.0
+Application Insights NLog Target -> 2.1.0
+Application Insights TraceListener -> 2.1.0
 AspNetSprites-Core -> 0.4.0
 AspNetSprites-MvcAndRazorHelper -> 0.4.0
 AspNetSprites-WebFormsControl -> 0.4.0
@@ -45,13 +41,13 @@ Deutsche Ressourcen für Microsoft ASP.NET Identity Owin -> 2.2.1
 Deutsche Ressourcen für Microsoft ASP.NET MVC -> 5.2.3
 Deutsche Ressourcen für Microsoft ASP.NET MVC Facebook -> 5.1.2
 Deutsche Ressourcen für Microsoft ASP.NET Razor -> 3.2.3
-Deutsche Ressourcen für Microsoft ASP.NET SignalR -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Client -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Core -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR Redis -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Deutsche Ressourcen für Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Deutsche Ressourcen für Microsoft ASP.NET SignalR -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Client -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Core -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR Redis -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.1
+Deutsche Ressourcen für Microsoft ASP.NET SignalR SystemWeb -> 2.2.1
 Deutsche Ressourcen für Microsoft ASP.NET Universal Providers-Kernbibliotheken -> 2.0.0
 Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
 Deutsche Ressourcen für Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
@@ -85,8 +81,8 @@ Deutsche Ressourcen für den Microsoft ASP.NET-Host für OWIN-Webanwendungen -> 
 Deutsche Ressourcen für die Microsoft WebPages OAuth-Bibliothek -> 3.2.3
 Dryad and DryadLINQ for YARN -> 0.2.1-beta
 DynamicData.EFCodeFirstProvider -> 0.5.1
-EdmLib -> 6.13.0
-EdmLib for OData V1-3 -> 5.7.0
+EdmLib -> 7.0.0
+EdmLib for OData V1-3  -> 5.8.1
 Enterprise Library - Common Infrastructure -> 6.0.1304
 Enterprise Library - Data Access Application Block -> 6.0.1304
 Enterprise Library - Data Access Application Block SQL CE Data Provider -> 6.0.1304
@@ -125,16 +121,6 @@ Entity Framework 日本語リソース -> 6.1.3
 Entity Framework 繁體中文資源 -> 6.1.3
 Entity Framework 한국어 리소스 -> 6.1.3
 EntityFramework -> 6.1.3
-EntityFramework.AzureTableStorage -> 7.0.0-beta1
-EntityFramework.Commands -> 7.0.0-rc1-final
-EntityFramework.Core -> 7.0.0-rc1-final
-EntityFramework.InMemory -> 7.0.0-rc1-final
-EntityFramework.Migrations -> 7.0.0-beta2
-EntityFramework.Relational -> 7.0.0-rc1-final
-EntityFramework.Relational.Design -> 7.0.0-rc1-final
-EntityFramework.SQLite -> 7.0.0-rc1-final
-EntityFramework.SqlServer -> 7.0.0-beta8
-EntityFramework.SqlServer.Design -> 7.0.0-beta8
 EntityFramework.SqlServerCompact -> 6.1.3
 Facebook.Helper -> 1.0.0
 Host Microsoft ASP.NET per applicazioni Web di OWIN - Risorse per l'italiano -> 3.0.1
@@ -142,19 +128,18 @@ Host platformy Microsoft ASP.NET dla aplikacji sieci Web środowiska OWIN — za
 Interactive Extensions for JavaScript - All -> 1.0.6
 Interactive Extensions for JavaScript - LINQ to Objects -> 1.0.6
 Interactive Extensions for JavaScript - Main -> 1.0.6
-Ix-Async -> 1.2.5
-Ix-Main -> 1.2.5
-JSON Web Token Handler For the Microsoft .Net Framework 4.5 -> 4.0.2.206221351
 KRE-CLR-amd64 -> 1.0.0-beta2
 KRE-CLR-x86 -> 1.0.0-beta2
 KRE-CoreCLR-amd64 -> 1.0.0-beta2
 KRE-CoreCLR-x86 -> 1.0.0-beta2
 KRE-Mono -> 1.0.0-beta3
 Kestrel -> 1.0.0-beta6
-Kit de ressources web des applications pour SharePoint (pour SharePoint 2013) -> 3.1.2
-Knihovny Microsoft ASP.NET SignalR SQL Server Libraries – české prostředky -> 2.2.0
-Knihovny Microsoft ASP.NET SignalR ServiceBus Libraries – české prostředky -> 2.2.0
+Kit de herramientas web para complementos de SharePoint (para SharePoint 2013) -> 3.1.5
+Kit de ressources web du complément SharePoint (pour SharePoint 2013) -> 3.1.5
+Knihovny Microsoft ASP.NET SignalR SQL Server Libraries – české prostředky -> 2.2.1
+Knihovny Microsoft ASP.NET SignalR ServiceBus Libraries – české prostředky -> 2.2.1
 Libreria Microsoft WebPages OAuth - Risorse per l'italiano -> 3.2.3
+Libuv -> 1.9.1
 Lightweight process manager for YARN -> 0.7.5-beta
 Localize -> 1.1.0
 Microsoft .NET Framework 4 HTTP Client Libraries - Risorse per l'italiano -> 2.0.20710
@@ -173,9 +158,9 @@ Microsoft ASP.NET Cross-Origin Support の日本語リソース -> 5.2.3
 Microsoft ASP.NET Cross-Origin Support 简体中文资源 -> 5.2.3
 Microsoft ASP.NET Cross-Origin Support 繁體中文資源 -> 5.2.3
 Microsoft ASP.NET Cross-Origin Support 한국어 리소스 -> 5.2.3
-Microsoft ASP.NET Custom WebHooks Azure Storage Module -> 1.2.0-beta4
-Microsoft ASP.NET Custom WebHooks MVC Module -> 1.2.0-beta4
-Microsoft ASP.NET Custom WebHooks Module -> 1.2.0-beta4
+Microsoft ASP.NET Custom WebHooks Azure Storage Module -> 1.2.0-rc2
+Microsoft ASP.NET Custom WebHooks MVC Module -> 1.2.0-rc2
+Microsoft ASP.NET Custom WebHooks Module -> 1.2.0-rc2
 Microsoft ASP.NET Friendly URLs - Risorse per l'italiano -> 1.0.2
 Microsoft ASP.NET Friendly URLs Türkçe Kaynakları -> 1.0.2
 Microsoft ASP.NET Friendly URLs – české prostředky -> 1.0.2
@@ -245,72 +230,72 @@ Microsoft ASP.NET Razor 日本語リソース -> 3.2.3
 Microsoft ASP.NET Razor 简体中文资源 -> 3.2.3
 Microsoft ASP.NET Razor 繁體中文資源 -> 3.2.3
 Microsoft ASP.NET Razor 한국어 리소스 -> 3.2.3
-Microsoft ASP.NET SignalR -> 2.2.0
-Microsoft ASP.NET SignalR - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR .NET Client -> 2.2.0
-Microsoft ASP.NET SignalR Client - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR Client {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Client – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR Client — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR Client 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Client 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR Client 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR Client 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR Core - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR Core Components -> 2.2.0
-Microsoft ASP.NET SignalR Core {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Core – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR Core — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR Core 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Core 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR Core 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR Core 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR JavaScript Client -> 2.2.0
+Microsoft ASP.NET SignalR -> 2.2.1
+Microsoft ASP.NET SignalR - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR .NET Client -> 2.2.1
+Microsoft ASP.NET SignalR Client - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR Client {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR Client – české prostředky -> 2.2.1
+Microsoft ASP.NET SignalR Client — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR Client 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR Client 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR Client 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR Client 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR Core - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR Core Components -> 2.2.1
+Microsoft ASP.NET SignalR Core {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR Core – české prostředky -> 2.2.1
+Microsoft ASP.NET SignalR Core — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR Core 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR Core 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR Core 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR Core 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR JavaScript Client -> 2.2.1
 Microsoft ASP.NET SignalR OWIN -> 1.2.2
-Microsoft ASP.NET SignalR Redis - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR Redis Messaging Backplane -> 2.2.0
-Microsoft ASP.NET SignalR Redis {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Redis – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR Redis — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR Redis 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR Redis 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR Redis 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR Redis 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Libraries 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR SQL Server Messaging Backplane -> 2.2.0
-Microsoft ASP.NET SignalR Self Host -> 2.2.0
-Microsoft ASP.NET SignalR Service Bus Messaging Backplane -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR ServiceBus Libraries 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR System.Web -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb - Risorse per l'italiano -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb {Türkçe} Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR SystemWeb 한국어 리소스 -> 2.2.0
-Microsoft ASP.NET SignalR Türkçe Kaynaklar -> 2.2.0
-Microsoft ASP.NET SignalR Utilities -> 2.2.0
-Microsoft ASP.NET SignalR i18n Resources -> 2.2.0
-Microsoft ASP.NET SignalR – české prostředky -> 2.2.0
-Microsoft ASP.NET SignalR — zasoby dla języka polskiego -> 2.2.0
-Microsoft ASP.NET SignalR 日本語リソース -> 2.2.0
-Microsoft ASP.NET SignalR 简体中文资源 -> 2.2.0
-Microsoft ASP.NET SignalR 繁體中文資源 -> 2.2.0
-Microsoft ASP.NET SignalR 한국어 리소스 -> 2.2.0
+Microsoft ASP.NET SignalR Redis - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR Redis Messaging Backplane -> 2.2.1
+Microsoft ASP.NET SignalR Redis {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR Redis – české prostředky -> 2.2.1
+Microsoft ASP.NET SignalR Redis — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR Redis 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR Redis 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR Redis 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR Redis 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Libraries 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR SQL Server Messaging Backplane -> 2.2.1
+Microsoft ASP.NET SignalR Self Host -> 2.2.1
+Microsoft ASP.NET SignalR Service Bus Messaging Backplane -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR ServiceBus Libraries 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR System.Web -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb - Risorse per l'italiano -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb {Türkçe} Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb – české prostředky -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR SystemWeb 한국어 리소스 -> 2.2.1
+Microsoft ASP.NET SignalR Türkçe Kaynaklar -> 2.2.1
+Microsoft ASP.NET SignalR Utilities -> 2.2.1
+Microsoft ASP.NET SignalR i18n Resources -> 2.2.1
+Microsoft ASP.NET SignalR – české prostředky -> 2.2.1
+Microsoft ASP.NET SignalR — zasoby dla języka polskiego -> 2.2.1
+Microsoft ASP.NET SignalR 日本語リソース -> 2.2.1
+Microsoft ASP.NET SignalR 简体中文资源 -> 2.2.1
+Microsoft ASP.NET SignalR 繁體中文資源 -> 2.2.1
+Microsoft ASP.NET SignalR 한국어 리소스 -> 2.2.1
 Microsoft ASP.NET Universal Providers -> 2.0.0
 Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
 Microsoft ASP.NET Universal Providers Core Libraries - Risorse per l'italiano -> 2.0.0
@@ -397,7 +382,7 @@ Microsoft ASP.NET Web API 2.2 for OData v1-3 — zasoby dla języka polskiego ->
 Microsoft ASP.NET Web API 2.2 for OData v1-3 日本語リソース -> 5.7.0
 Microsoft ASP.NET Web API 2.2 for OData v1-3 简体中文资源 -> 5.7.0
 Microsoft ASP.NET Web API 2.2 for OData v1-3 繁體中文資源 -> 5.7.0
-Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 5.7.0
+Microsoft ASP.NET Web API 2.2 for OData v4.0 -> 6.0.0
 Microsoft ASP.NET Web API 2.2 for OData v4.0 - Risorse per l'italiano -> 5.7.0
 Microsoft ASP.NET Web API 2.2 for OData v4.0 — zasoby dla języka polskiego -> 5.7.0
 Microsoft ASP.NET Web API 2.2 for OData v4.0 日本語リソース -> 5.7.0
@@ -460,27 +445,27 @@ Microsoft ASP.NET Web Pages 日本語リソース -> 3.2.3
 Microsoft ASP.NET Web Pages 简体中文资源 -> 3.2.3
 Microsoft ASP.NET Web Pages 繁體中文資源 -> 3.2.3
 Microsoft ASP.NET Web Pages 한국어 리소스 -> 3.2.3
-Microsoft ASP.NET WebHooks Common Module -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Azure WebHooks including Kudu (Azure Web App Deployment) and Azure Alerts. -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Bitbucket -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Dropbox -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for GitHub -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Instagram -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for MailChimp -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Paypal -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Pusher -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Slack -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Stripe -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for Trello -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for WordPress -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receiver for your custom WebHooks implementation. -> 1.2.0-beta4
-Microsoft ASP.NET WebHooks Receivers -> 1.2.0-beta4
+Microsoft ASP.NET WebHooks Common Module -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Azure WebHooks. -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Bitbucket -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Dropbox -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for GitHub -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Instagram -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for MailChimp -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Paypal -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Pusher -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Slack -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Stripe -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for Trello -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for WordPress -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receiver for custom WebHooks. -> 1.2.0-rc2
+Microsoft ASP.NET WebHooks Receivers -> 1.2.0-rc2
 Microsoft Ajax Minifier -> 5.14.5506.26202
 Microsoft Async -> 1.0.168
-Microsoft Azure Active Directory Graph Client Library -> 2.1.0
+Microsoft Azure Active Directory Graph Client Library -> 2.1.1
 Microsoft Azure Active Directory Graph Client Library for Javascript -> 1.0.19
-Microsoft Azure Configuration Manager -> 3.1.0
-Microsoft Azure Service Bus -> 3.0.9
+Microsoft Azure Configuration Manager -> 3.2.3
+Microsoft Azure Service Bus -> 3.4.2
 Microsoft BCL Build Components -> 1.0.21
 Microsoft BCL Portability Pack -> 1.1.10
 Microsoft Composition (MEF 2) -> 1.0.30
@@ -493,11 +478,11 @@ Microsoft DotNetOpenAuth ASP.NET Membership 简体中文 资源 -> 2.0.1
 Microsoft DotNetOpenAuth ASP.NET Membership 繁體中文資源 -> 2.0.1
 Microsoft DotNetOpenAuth ASP.NET Membership 한국어 리소스 -> 2.0.1
 Microsoft DotNetOpenAuth helpers for ASP.NET Membership -> 2.0.1
+Microsoft Dynamics 365 SDK Outlook client assembly -> 8.2.0
+Microsoft Dynamics 365 SDK core assemblies -> 8.2.0
+Microsoft Dynamics 365 SDK deployment assembly -> 8.2.0
 Microsoft Dynamics CRM 2015 SDK client and portal assemblies -> 7.1.0.1
-Microsoft Dynamics CRM 2016 SDK Outlook client assembly -> 8.0.0
-Microsoft Dynamics CRM 2016 SDK core assemblies -> 8.0.0
-Microsoft Dynamics CRM 2016 SDK deployment assembly -> 8.0.0
-Microsoft Dynamics CRM 2016 SDK workflow assembly -> 8.0.0
+Microsoft Dynamics CRM 365 SDK workflow assembly -> 8.2.0
 Microsoft HTTP Client Libraries -> 2.2.29
 Microsoft OCR Library for Windows Runtime -> 1.0.0
 Microsoft Owin - Risorse per l'italiano -> 3.0.1
@@ -607,11 +592,16 @@ Microsoft Owin 한국어 리소스 -> 3.0.1
 Microsoft SQL Server Compact Edition -> 4.0.8854.1
 Microsoft SQL Server Compact Edition -> 4.0.8876.1
 Microsoft TPL Dataflow -> 4.5.24
-Microsoft Team Foundation Server Client -> 14.89.0
-Microsoft Team Foundation Server Extended Client -> 14.89.0
+Microsoft Team Foundation Server Client -> 14.102.0
+Microsoft Team Foundation Server Extended Client -> 14.102.0
 Microsoft Token Validation Extension for Microsoft .Net Framework 4.5 -> 4.5.1
-Microsoft Visual Studio Services Client -> 14.89.0
-Microsoft Visual Studio Services Client (Interactive) -> 14.89.0
+Microsoft Visual Studio Services Client -> 14.102.0
+Microsoft Visual Studio Services Client (Interactive) -> 14.102.0
+Microsoft Visual Studio Services Distributed Task Client -> 15.107.2-preview
+Microsoft Visual Studio Services Release Client -> 15.107.2-preview
+Microsoft VisualStudio Services ExtensionManagement WebApi -> 15.107.1-preview
+Microsoft VisualStudio Services Gallery WebApi -> 15.107.1-preview
+Microsoft WebJobs Publish -> 1.0.12
 Microsoft WebPages OAuth kitaplığı Türkçe Kaynakları -> 3.2.3
 Microsoft WebPages OAuth library -> 3.2.3
 Microsoft WebPages OAuth library - české prostředky -> 3.2.3
@@ -624,7 +614,6 @@ Microsoft jQuery Unobtrusive Ajax -> 3.2.3
 Microsoft jQuery Unobtrusive Validation -> 3.2.3
 Microsoft.AspNet.Diagnostics -> 1.0.0-rc1-final
 Microsoft.AspNet.Diagnostics.Elm -> 1.0.0-rc1-final
-Microsoft.AspNet.Diagnostics.Entity -> 7.0.0-rc1-final
 Microsoft.AspNet.DynamicDataTemplates.CS -> 1.0.0-beta1
 Microsoft.AspNet.FeatureModel -> 1.0.0-beta6
 Microsoft.AspNet.FileProviders -> 1.0.0-beta4
@@ -672,7 +661,7 @@ Microsoft.AspNet.Server.IIS -> 1.0.0-beta7
 Microsoft.AspNet.Server.Kestrel -> 1.0.0-rc1-final
 Microsoft.AspNet.Server.WebListener -> 1.0.0-rc1-final
 Microsoft.AspNet.Session -> 1.0.0-rc1-final
-Microsoft.AspNet.SignalR.Sample -> 2.2.0
+Microsoft.AspNet.SignalR.Sample -> 2.2.1
 Microsoft.AspNet.SignalR.Server -> 3.0.0-beta5
 Microsoft.AspNet.StaticFiles -> 1.0.0-rc1-final
 Microsoft.AspNet.TestHost -> 1.0.0-rc1-final
@@ -682,19 +671,20 @@ Microsoft.AspNet.WebSockets.Client -> 1.0.0-rc1-final
 Microsoft.AspNet.WebSockets.Protocol -> 1.0.0-rc1-final
 Microsoft.AspNet.WebSockets.Server -> 1.0.0-rc1-final
 Microsoft.AspNet.WebUtilities -> 1.0.0-rc1-final
-Microsoft.CSharp -> 4.0.0
-Microsoft.CodeAnalysis -> 1.1.1
-Microsoft.CodeAnalysis.CSharp -> 1.1.1
-Microsoft.CodeAnalysis.CSharp.Workspaces -> 1.1.1
+Microsoft.CSharp -> 4.3.0
+Microsoft.CodeAnalysis -> 1.3.2
+Microsoft.CodeAnalysis.CSharp -> 1.3.2
+Microsoft.CodeAnalysis.CSharp.Workspaces -> 1.3.2
 Microsoft.CodeAnalysis.CodeActions -> 0.7.4091001-beta
-Microsoft.CodeAnalysis.Common -> 1.1.1
-Microsoft.CodeAnalysis.Compilers -> 1.1.1
+Microsoft.CodeAnalysis.Common -> 1.3.2
+Microsoft.CodeAnalysis.Compilers -> 1.3.2
 Microsoft.CodeAnalysis.Test.Resources.Proprietary -> 1.1.0-beta1-20150824-02
-Microsoft.CodeAnalysis.VisualBasic -> 1.1.1
-Microsoft.CodeAnalysis.VisualBasic.Workspaces -> 1.1.1
-Microsoft.CodeAnalysis.Workspaces.Common -> 1.1.1
-Microsoft.Data.SQLite -> 1.0.0-rc1-final
-Microsoft.DataAnnotations -> 1.0.0-beta1
+Microsoft.CodeAnalysis.VisualBasic -> 1.3.2
+Microsoft.CodeAnalysis.VisualBasic.Workspaces -> 1.3.2
+Microsoft.CodeAnalysis.Workspaces.Common -> 1.3.2
+Microsoft.Data.SQLite -> 1.1.0
+Microsoft.EntityFrameworkCore.Tools.DotNet -> 1.1.0-preview4-final
+Microsoft.Extensions.DependencyModel -> 1.1.0
 Microsoft.Framework.ApplicationHost -> 1.0.0-beta6
 Microsoft.Framework.Cache.Distributed -> 1.0.0-beta3
 Microsoft.Framework.Cache.Memory -> 1.0.0-beta3
@@ -720,8 +710,9 @@ Microsoft.Framework.Runtime.Roslyn -> 1.0.0-beta6
 Microsoft.Framework.Runtime.Roslyn.Common -> 1.0.0-beta6
 Microsoft.Framework.TestAdapter -> 1.0.0-beta6
 Microsoft.Framework.TestHost -> 1.0.0-beta6
-Microsoft.Net.Http.Headers -> 1.0.0-rc1-final
-Microsoft.Net.Http.Server -> 1.0.0-rc1-final
+Microsoft.IIS.Host -> 1.0.0-rc1
+Microsoft.Net.Http.Headers -> 1.1.0
+Microsoft.Net.Http.Server -> 1.1.0
 Microsoft.Net.ToolsetCompilers -> 1.0.0-rc3-20150520-02
 Microsoft.Net.WebSocketAbstractions -> 1.0.0-beta4
 Microsoft.Net.WebSockets -> 1.0.0-rc1-final
@@ -752,13 +743,14 @@ Microsoft.ScriptManager.WebForms -> 1.0.1
 Microsoft.ScriptManager.jQuery -> 1.7.2.1
 Microsoft.ScriptManager.jQuery.UI.Combined -> 1.8.20.1
 Microsoft.SharePoint.Emulators -> 1.0.0
-Microsoft.Spatial -> 6.13.0
-Microsoft.VisualStudio.LanguageServices -> 1.1.1
-Microsoft.VisualStudio.Web.BrowserLink.Loader -> 14.0.0-rc1-final
+Microsoft.Spatial -> 7.0.0
+Microsoft.VisualStudio.LanguageServices -> 1.3.2
+Microsoft.VisualStudio.Web.BrowserLink.Loader -> 14.1.0
+Microsoft.Web.Administration -> 7.0.0
 Microsoft.Web.Infrastructure -> 1.0.0
 Microsoft.Web.SessionState.SqlInMemory -> 1.0.2
-Microsoft.Win32.Primitives -> 4.0.0
-Microsoft.Win32.Registry -> 4.0.0-beta-23516
+Microsoft.Win32.Primitives -> 4.3.0
+Microsoft.Win32.Registry -> 4.3.0
 MicrosoftAjax -> 4.0.20526
 MicrosoftMvcAjax.Mvc5 -> 5.0.0
 MicrosoftWebMvc -> 2.0.0
@@ -766,25 +758,25 @@ Mvc2Futures -> 2.0.50217
 Mvc3Futures -> 3.0.20105
 Mvc4Futures -> 4.0.20710
 NuGet.Bootstrapper -> 2.6.0
-NuGet.Build -> 2.8.6
-NuGet.CommandLine -> 3.3.0
-NuGet.Core -> 2.10.1
-NuGet.Server -> 2.8.6
-NuGet.VisualStudio -> 2.8.6
+NuGet.Build -> 2.12.0
+NuGet.CommandLine -> 3.4.3
+NuGet.Core -> 2.12.0
+NuGet.Server -> 2.11.2
+NuGet.VisualStudio -> 3.3.0
 OData Client T4 -> 1.0.0-rc1
-OData Client for .NET -> 6.13.0
+OData Client for .NET -> 6.15.0
 OData Client for Windows Phone Apps -> 5.0.0
 OData v1-3 Türkçe Kaynaklar için Microsoft ASP.NET Web API 2.2 -> 5.7.0
 OData v1-3용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
 OData v4.0 için Microsoft ASP.NET Web API 2.2 için Türkçe Kaynakları -> 5.7.0
 OData v4.0용 Microsoft ASP.NET Web API 2.2 한국어 리소스 -> 5.7.0
-ODataLib -> 6.13.0
+ODataLib -> 7.0.0
 ODataLib Contrib -> 5.1.0.51119
-ODataLib for OData V1-3 -> 5.7.0
+ODataLib for OData V1-3  -> 5.8.1
 ODataLib for WIndows Phone -> 5.0.0
 OWIN Web Uygulamaları Türkçe Kaynakları için Microsoft ASP.NET Ana Bilgisayarı -> 3.0.1
 OWIN 웹 응용 프로그램용 Microsoft ASP.NET 호스트 한국어 리소스 -> 3.0.1
-Office JavaScript API -> 1.1.0.9
+Office JavaScript API -> 1.1.0.10
 Office Web Widgets - Experimental -> 0.1.0
 OwinHost -> 3.0.1
 PayPal.Helper -> 1.0.1
@@ -806,21 +798,6 @@ RIAServices.T4 -> 4.2.0
 RIAServices.UnitTesting -> 4.2.0
 RIAServices.ViewModel -> 4.1.60730.1
 RIAServices.jQuery -> 4.1.60914.2
-Reactive Extensions - .NET Remoting Support -> 2.2.5
-Reactive Extensions - Core Library -> 2.2.5
-Reactive Extensions - Experimental Library -> 2.2.5
-Reactive Extensions - Interfaces Library -> 2.2.5
-Reactive Extensions - Main Library -> 2.2.5
-Reactive Extensions - Platform Services Library -> 2.2.5
-Reactive Extensions - Providers Library -> 2.2.5
-Reactive Extensions - Query Library -> 2.2.5
-Reactive Extensions - Silverlight Helpers -> 2.2.5
-Reactive Extensions - Testing Library -> 2.2.5
-Reactive Extensions - WPF Helpers -> 2.2.5
-Reactive Extensions - Windows Forms Helpers -> 2.2.5
-Reactive Extensions - Windows Runtime Helpers -> 2.2.5
-Reactive Extensions - Windows Store Apps Support Library -> 2.2.5
-Reactive Extensions - XAML Support Library -> 2.2.5
 Reactive Extensions for JavaScript - Aggregation Operations -> 4.0.7
 Reactive Extensions for JavaScript - All Libraries -> 4.0.7
 Reactive Extensions for JavaScript - Async-Based Operations -> 4.0.7
@@ -843,7 +820,7 @@ Recursos Português-BR de Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
 Recursos Português-BR do Microsoft ASP.NET Web Optimization -> 1.1.3
 Recursos de Português do Brasil do Microsoft ASP.NET Cross-Origin Support -> 5.2.3
 Recursos de Português do Brasil do Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
-Recursos de Português-BR do Microsoft ASP.NET SignalR -> 2.2.0
+Recursos de Português-BR do Microsoft ASP.NET SignalR -> 2.2.1
 Recursos de español de Microsoft ASP.NET Identity Core -> 2.2.1
 Recursos de español de Microsoft ASP.NET Identity EntityFramework -> 2.2.1
 Recursos de español de Microsoft ASP.NET Identity Owin -> 2.2.1
@@ -868,12 +845,12 @@ Recursos em Português-BR Microsoft ASP.NET Web Pages -> 3.2.3
 Recursos em Português-BR Microsoft ASP.NET Web Pages Data -> 3.2.3
 Recursos em Português-BR Microsoft ASP.NET Web Pages Web Data -> 3.2.3
 Recursos em Português-BR de Microsoft ASP.NET MVC -> 5.2.3
-Recursos em Português-BR do Microsoft ASP.NET SignalR Client -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR Core -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR Redis -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Recursos em Português-BR do Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Recursos em Português-BR do Microsoft ASP.NET SignalR Client -> 2.2.1
+Recursos em Português-BR do Microsoft ASP.NET SignalR Core -> 2.2.1
+Recursos em Português-BR do Microsoft ASP.NET SignalR Redis -> 2.2.1
+Recursos em Português-BR do Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.1
+Recursos em Português-BR do Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.1
+Recursos em Português-BR do Microsoft ASP.NET SignalR SystemWeb -> 2.2.1
 Recursos em português do Brasil do Microsoft ASP.NET Identity EntityFramework -> 2.2.1
 Recursos em português do Brasil do Microsoft ASP.NET Identity Owin -> 2.2.1
 Recursos em português do Microsoft .NET Framework 4 HTTP Client Libraries -> 2.0.20710
@@ -898,13 +875,13 @@ Recursos en español para Microsoft ASP.NET Friendly URLs -> 1.0.2
 Recursos en español para Microsoft ASP.NET MVC -> 5.2.3
 Recursos en español para Microsoft ASP.NET MVC Facebook -> 5.1.2
 Recursos en español para Microsoft ASP.NET Razor -> 3.2.3
-Recursos en español para Microsoft ASP.NET SignalR -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR Client -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR Core -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR Redis -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Recursos en español para Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Recursos en español para Microsoft ASP.NET SignalR -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR Client -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR Core -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR Redis -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.1
+Recursos en español para Microsoft ASP.NET SignalR SystemWeb -> 2.2.1
 Recursos en español para Microsoft ASP.NET Web API SignalR -> 5.0.0-rc1
 Recursos en español para Microsoft ASP.NET Web Optimization -> 1.1.3
 Recursos en español para Microsoft ASP.NET Web Pages -> 3.2.3
@@ -943,13 +920,13 @@ Ressources en français pour Microsoft ASP.NET Identity Owin -> 2.2.1
 Ressources en français pour Microsoft ASP.NET MVC -> 5.2.3
 Ressources en français pour Microsoft ASP.NET MVC Facebook -> 5.1.2
 Ressources en français pour Microsoft ASP.NET Razor -> 3.2.3
-Ressources en français pour Microsoft ASP.NET SignalR -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR Client -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR Core -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR Redis -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Ressources en français pour Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Ressources en français pour Microsoft ASP.NET SignalR -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR Client -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR Core -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR Redis -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.1
+Ressources en français pour Microsoft ASP.NET SignalR SystemWeb -> 2.2.1
 Ressources en français pour Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
 Ressources en français pour Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
 Ressources en français pour Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
@@ -979,145 +956,139 @@ Ressources en français pour la bibliothèque Microsoft WebPages OAuth -> 3.2.3
 Ressources en français pour les bibliothèques principales de Microsoft ASP.NET Universal Providers -> 2.0.0
 Ressources en français sur Microsoft ASP.NET Identity Core -> 2.2.1
 Risorse in lingua italiana per Entity Framework -> 6.1.3
-Rx_Experimental-Xaml -> 1.1.11111
 Sample DryadLINQ Programs -> 0.2.1-beta
 Semantic Logging Application Block -> 2.0.1406.1
 Semantic Logging Application Block - Azure Sink -> 2.0.1406.1
 Semantic Logging Application Block - Out-of-process Service -> 2.0.1406.1
 Semantic Logging Application Block - SQL Server Sink -> 2.0.1406.1
-SharePoint Web Toolkit 的应用程序(适用于 SharePoint 2013) -> 3.1.2
-SharePoint Web ツールキット用アプリ (SharePoint 2013 用) -> 3.1.2
-SharePoint 웹 도구 키트용 앱(SharePoint 2013용) -> 3.1.1
+SharePoint Add-in Web Toolkit(for SharePoint 2013) -> 3.1.5
+SharePoint アドイン Web Toolkit (SharePoint 2013 用) -> 3.1.5
+SharePoint 增益集 Web 工具組 (適用於 SharePoint 2013) -> 3.1.5
+SharePoint 外接程序 Web Toolkit (适用于 SharePoint 2013) -> 3.1.5
+SharePoint 추가 기능 웹 도구 키트(SharePoint 2013용) -> 3.1.5
 Starter Site Template (VB) - Web Pages v2 -> 1.0.0
-System.AppContext -> 4.0.0
-System.Collections -> 4.0.10
-System.Collections.Concurrent -> 4.0.10
-System.Collections.Immutable -> 1.1.37
-System.Collections.NonGeneric -> 4.0.0
-System.Collections.Specialized -> 4.0.0
-System.ComponentModel -> 4.0.0
-System.ComponentModel.Annotations -> 4.0.10
-System.ComponentModel.EventBasedAsync -> 4.0.10
-System.ComponentModel.Primitives -> 4.0.0
-System.ComponentModel.TypeConverter -> 4.0.0
-System.Console -> 4.0.0-beta-23516
-System.Data.Common -> 4.0.0
-System.Data.SqlClient -> 4.0.0-beta-23516
-System.Diagnostics.Contracts -> 4.0.0
-System.Diagnostics.Debug -> 4.0.10
-System.Diagnostics.FileVersionInfo -> 4.0.0-beta-23516
-System.Diagnostics.Process -> 4.1.0-beta-23516
-System.Diagnostics.TextWriterTraceListener -> 4.0.0-beta-23516
-System.Diagnostics.Tools -> 4.0.0
-System.Diagnostics.TraceSource -> 4.0.0-beta-23516
-System.Diagnostics.Tracing -> 4.0.20
-System.Dynamic.Runtime -> 4.0.10
-System.Globalization -> 4.0.10
-System.Globalization.Calendars -> 4.0.0
-System.Globalization.Extensions -> 4.0.0
-System.IO -> 4.0.10
-System.IO.Compression -> 4.0.0
-System.IO.Compression.ZipFile -> 4.0.0
-System.IO.FileSystem -> 4.0.0
-System.IO.FileSystem.DriveInfo -> 4.0.0-beta-23516
-System.IO.FileSystem.Primitives -> 4.0.0
-System.IO.FileSystem.Watcher -> 4.0.0-beta-23516
-System.IO.MemoryMappedFiles -> 4.0.0-beta-23516
-System.IO.Pipes -> 4.0.0-beta-23516
-System.IO.UnmanagedMemoryStream -> 4.0.0
-System.Linq -> 4.0.0
-System.Linq.Expressions -> 4.0.10
-System.Linq.Parallel -> 4.0.0
-System.Linq.Queryable -> 4.0.0
-System.Net.Http -> 4.0.0
-System.Net.Http.WinHttpHandler -> 4.0.0-beta-23516
-System.Net.NameResolution -> 4.0.0-beta-23516
-System.Net.NetworkInformation -> 4.0.0
-System.Net.Primitives -> 4.0.10
-System.Net.Sockets -> 4.0.0
+System.AppContext -> 4.3.0
+System.Collections -> 4.3.0
+System.Collections.Concurrent -> 4.3.0
+System.Collections.Immutable -> 1.3.0
+System.Collections.NonGeneric -> 4.3.0
+System.Collections.Specialized -> 4.3.0
+System.ComponentModel -> 4.3.0
+System.ComponentModel.Annotations -> 4.3.0
+System.ComponentModel.EventBasedAsync -> 4.3.0
+System.ComponentModel.Primitives -> 4.3.0
+System.ComponentModel.TypeConverter -> 4.3.0
+System.Console -> 4.3.0
+System.Data.Common -> 4.3.0
+System.Data.SqlClient -> 4.3.0
+System.Diagnostics.Contracts -> 4.3.0
+System.Diagnostics.Debug -> 4.3.0
+System.Diagnostics.FileVersionInfo -> 4.3.0
+System.Diagnostics.Process -> 4.3.0
+System.Diagnostics.TextWriterTraceListener -> 4.3.0
+System.Diagnostics.Tools -> 4.3.0
+System.Diagnostics.TraceSource -> 4.3.0
+System.Diagnostics.Tracing -> 4.3.0
+System.Dynamic.Runtime -> 4.3.0
+System.Globalization -> 4.3.0
+System.Globalization.Calendars -> 4.3.0
+System.Globalization.Extensions -> 4.3.0
+System.IO -> 4.3.0
+System.IO.Compression -> 4.3.0
+System.IO.Compression.ZipFile -> 4.3.0
+System.IO.FileSystem -> 4.3.0
+System.IO.FileSystem.DriveInfo -> 4.3.0
+System.IO.FileSystem.Primitives -> 4.3.0
+System.IO.FileSystem.Watcher -> 4.3.0
+System.IO.MemoryMappedFiles -> 4.3.0
+System.IO.Pipes -> 4.3.0
+System.IO.UnmanagedMemoryStream -> 4.3.0
+System.IdentityModel.Tokens.Jwt -> 5.1.0
+System.Linq -> 4.3.0
+System.Linq.Expressions -> 4.3.0
+System.Linq.Parallel -> 4.3.0
+System.Linq.Queryable -> 4.3.0
+System.Net.Http -> 4.3.0
+System.Net.Http.WinHttpHandler -> 4.3.0
+System.Net.NameResolution -> 4.3.0
+System.Net.NetworkInformation -> 4.3.0
+System.Net.Primitives -> 4.3.0
+System.Net.Sockets -> 4.3.0
 System.Net.Utilities -> 4.0.0-beta-23516
-System.Net.WebSockets -> 4.0.0-beta-23516
-System.ObjectModel -> 4.0.10
-System.Reflection -> 4.0.10
-System.Reflection.Emit -> 4.0.0
-System.Reflection.Emit.ILGeneration -> 4.0.0
-System.Reflection.Emit.Lightweight -> 4.0.0
-System.Reflection.Extensions -> 4.0.0
-System.Reflection.Metadata -> 1.1.0
-System.Reflection.Primitives -> 4.0.0
-System.Reflection.TypeExtensions -> 4.0.0
-System.Resources.ResourceManager -> 4.0.0
+System.Net.WebSockets -> 4.3.0
+System.ObjectModel -> 4.3.0
+System.Reflection -> 4.3.0
+System.Reflection.Emit -> 4.3.0
+System.Reflection.Emit.ILGeneration -> 4.3.0
+System.Reflection.Emit.Lightweight -> 4.3.0
+System.Reflection.Extensions -> 4.3.0
+System.Reflection.Metadata -> 1.4.1
+System.Reflection.Primitives -> 4.3.0
+System.Reflection.TypeExtensions -> 4.3.0
+System.Resources.ResourceManager -> 4.3.0
 System.Resources.ResourceWriter -> 4.0.0-beta-22816
-System.Runtime -> 4.0.20
-System.Runtime.CompilerServices.VisualC -> 4.0.0-beta-23516
-System.Runtime.Extensions -> 4.0.10
-System.Runtime.Handles -> 4.0.0
-System.Runtime.InteropServices -> 4.0.20
-System.Runtime.Loader -> 4.0.0-beta-23516
-System.Runtime.Numerics -> 4.0.0
-System.Runtime.Serialization.Json -> 4.0.0
-System.Runtime.Serialization.Primitives -> 4.0.10
-System.Runtime.Serialization.Xml -> 4.0.10
-System.Security.Claims -> 4.0.0
-System.Security.Cryptography.DeriveBytes -> 4.0.0-beta-23225
-System.Security.Cryptography.Encoding -> 4.0.0-beta-23516
-System.Security.Cryptography.Encryption -> 4.0.0-beta-23225
-System.Security.Cryptography.Encryption.Aes -> 4.0.0-beta-23225
-System.Security.Cryptography.Encryption.RSA -> 4.0.0-beta-22231
-System.Security.Cryptography.Hashing -> 4.0.0-beta-23225
-System.Security.Cryptography.Hashing.Algorithms -> 4.0.0-beta-23225
-System.Security.Cryptography.RandomNumberGenerator -> 4.0.0-beta-23225
-System.Security.Cryptography.X509Certificates -> 4.0.0-beta-23516
-System.Security.Principal -> 4.0.0
-System.Security.SecureString -> 4.0.0-beta-23409
-System.ServiceModel.Http -> 4.0.10
-System.ServiceModel.Primitives -> 4.0.0
-System.Spatial for OData V1-3 -> 5.7.0
-System.Text.Encoding -> 4.0.10
-System.Text.Encoding.CodePages -> 4.0.0
-System.Text.Encoding.Extensions -> 4.0.10
-System.Text.RegularExpressions -> 4.0.10
-System.Threading -> 4.0.10
+System.Runtime -> 4.3.0
+System.Runtime.CompilerServices.VisualC -> 4.3.0
+System.Runtime.Extensions -> 4.3.0
+System.Runtime.Handles -> 4.3.0
+System.Runtime.InteropServices -> 4.3.0
+System.Runtime.Loader -> 4.3.0
+System.Runtime.Numerics -> 4.3.0
+System.Runtime.Serialization.Json -> 4.3.0
+System.Runtime.Serialization.Primitives -> 4.3.0
+System.Runtime.Serialization.Xml -> 4.3.0
+System.Security.Claims -> 4.3.0
+System.Security.Cryptography.Encoding -> 4.3.0
+System.Security.Cryptography.X509Certificates -> 4.3.0
+System.Security.Principal -> 4.3.0
+System.Security.SecureString -> 4.3.0
+System.ServiceModel.Http -> 4.3.0
+System.ServiceModel.Primitives -> 4.3.0
+System.Spatial for OData V1-3  -> 5.8.1
+System.Text.Encoding -> 4.3.0
+System.Text.Encoding.CodePages -> 4.3.0
+System.Text.Encoding.Extensions -> 4.3.0
+System.Text.RegularExpressions -> 4.3.0
+System.Threading -> 4.3.0
 System.Threading.ExecutionContext -> 4.0.0-beta-22416
-System.Threading.Overlapped -> 4.0.0
-System.Threading.Tasks -> 4.0.10
-System.Threading.Tasks.Parallel -> 4.0.0
-System.Threading.Thread -> 4.0.0-beta-23516
-System.Threading.ThreadPool -> 4.0.10-beta-23516
-System.Threading.Timer -> 4.0.0
+System.Threading.Overlapped -> 4.3.0
+System.Threading.Tasks -> 4.3.0
+System.Threading.Tasks.Parallel -> 4.3.0
+System.Threading.Thread -> 4.3.0
+System.Threading.ThreadPool -> 4.3.0
+System.Threading.Timer -> 4.3.0
 System.Web.Http.Common (Beta) -> 4.0.20126.16343
 System.Web.Providers.SqlCE -> 1.1.0
-System.Xml.ReaderWriter -> 4.0.10
-System.Xml.XDocument -> 4.0.10
-System.Xml.XPath -> 4.0.0
-System.Xml.XPath.XDocument -> 4.0.0
-System.Xml.XPath.XmlDocument -> 4.0.0
-System.Xml.XmlDocument -> 4.0.0
-System.Xml.XmlSerializer -> 4.0.10
+System.Xml.ReaderWriter -> 4.3.0
+System.Xml.XDocument -> 4.3.0
+System.Xml.XPath -> 4.3.0
+System.Xml.XPath.XDocument -> 4.3.0
+System.Xml.XPath.XmlDocument -> 4.3.0
+System.Xml.XmlDocument -> 4.3.0
+System.Xml.XmlSerializer -> 4.3.0
+Toolkit Web del componente aggiuntivo per SharePoint (per SharePoint 2013) -> 3.1.5
 Transient Fault Handling Core -> 5.1.1209.1
 TranslatorWidget -> 1.0.4
 Twitter.Helper -> 1.0.0
 Upshot -> 1.0.0.2
-WCF Data Services Client for OData V1-3 -> 5.7.0
+WCF Data Services Client for OData V1-3  -> 5.8.1
 WCF Data Services EntityFramework Provider -> 1.0.0-beta2
-WCF Data Services Server for OData V1-3 -> 5.7.0
+WCF Data Services Server for OData V1-3  -> 5.8.1
 WebGrease -> 1.6.0
-Windows Azure Cache -> 2.8.0
-Windows Azure Cache Memcache Shim -> 2.8.0
-Windows Azure Media Services .NET SDK -> 3.5.2
-Windows Azure Mobile Services -> 1.3.2
-Windows Azure Mobile Services for WinJS -> 1.2.5
+Windows Azure Cache -> 2.9.5
+Windows Azure Cache Memcache Shim -> 2.9.5
+Windows Azure Media Services .NET SDK -> 3.8.0.3
 Windows Azure Shared Caching -> 1.7.0
-Windows Azure Storage -> 6.2.0
+Windows Azure Storage -> 7.2.1
 Windows Identity Foundation -> 6.1.7600.16394
-Windows Runtime API for MIDI Preview -> 1.0.0
 Wishlist Template -> 1.0.0
 Zasoby dla języka polskiego dotyczące biblioteki Microsoft WebPages OAuth -> 3.2.3
 Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Universal Providers Core Libraries -> 2.0.0
 Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Optimization -> 1.1.3
 Zasoby dla języka polskiego dotyczące produktu Microsoft ASP.NET Web Pages 2 Administration -> 2.0.30506
 Zasoby dla języka polskiego dotyczące produktu Microsoft DotNetOpenAuth ASP.NET Membership -> 2.0.1
-deprecated Win2D -> 1.0.0
+[Deprecated] Azure Mobile Services client SDK -> 1.3.2
+[Deprecated] Azure Mobile Services for WinJS -> 1.2.5
 jQuery Data Link (Beta 1) -> 0.1.0
 jQuery Templates (Beta 1) -> 0.1.0
 jQuery Unobtrusive Ajax -> 2.0.20710
@@ -1127,7 +1098,7 @@ kre-clr-win-x64 -> 1.0.0-beta3
 kre-clr-win-x86 -> 1.0.0-beta3
 kre-coreclr-win-x64 -> 1.0.0-beta3
 kre-coreclr-win-x86 -> 1.0.0-beta3
-Приложение для пакета веб-средств SharePoint (для SharePoint 2013) -> 3.1.1
+Пакет веб-инструментов надстройки SharePoint (для SharePoint 2013) -> 3.1.5
 Ресурсы Microsoft Owin Security Jwt — {Language} -> 3.0.1
 Русские ресурсы Microsoft ASP.NET Cross-Origin Support -> 5.2.3
 Русские ресурсы Microsoft ASP.NET Friendly URLs -> 1.0.2
@@ -1138,13 +1109,13 @@ kre-coreclr-win-x86 -> 1.0.0-beta3
 Русские ресурсы Microsoft ASP.NET MVC -> 5.2.3
 Русские ресурсы Microsoft ASP.NET MVC Facebook -> 5.1.2
 Русские ресурсы Microsoft ASP.NET Razor -> 3.2.3
-Русские ресурсы Microsoft ASP.NET SignalR -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR Client -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR Core -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR Redis -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.0
-Русские ресурсы Microsoft ASP.NET SignalR SystemWeb -> 2.2.0
+Русские ресурсы Microsoft ASP.NET SignalR -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR Client -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR Core -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR Redis -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR SQL Server Libraries -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR ServiceBus Libraries -> 2.2.1
+Русские ресурсы Microsoft ASP.NET SignalR SystemWeb -> 2.2.1
 Русские ресурсы Microsoft ASP.NET Web API 2.2 Client Libraries -> 5.2.3
 Русские ресурсы Microsoft ASP.NET Web API 2.2 Core Libraries -> 5.2.3
 Русские ресурсы Microsoft ASP.NET Web API 2.2 Cross-Origin Support -> 5.2.3
